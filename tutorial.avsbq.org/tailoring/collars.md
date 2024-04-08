@@ -11,3 +11,4 @@ Modularity, people throw out entire shirts because the collar starts to thray! I
 <img src="/.pix/tailoring/collar7.webp" style="max-width: 390px; height: auto;">
 <img src="/.pix/tailoring/collar8.webp" style="max-width: 390px; height: auto;">
 <img src="/.pix/tailoring/collar9.webp" style="max-width: 390px; height: auto;">
+<img src="/.pix/tailoring/collar10.webp" style="max-width: 390px; height: auto;">
