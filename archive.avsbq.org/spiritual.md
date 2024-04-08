@@ -51,6 +51,8 @@ We do not know if we are on Heaven or Earth
 
 > _Fasting clearly shows or discloses all the infirmities of our soul, all its weaknesses, deficiencies, sins, and passions; just as when muddy, standing water is beginning to be cleaned it shows what reptiles and what sort of dirt it contains_ &ndash; St. John of Kronstadt
 
+> _When people are empty of Christ, a thousand and one other things come and fill them up; jealousies, hatreds, boredom, melancholy, resentment, a wordly outlook, worldly pleasures. Try to fill your soul with Christ so that it's not empty_ &ndash; St. Porphyrios
+
 > _We should try to live in such a way that if the Gospels were lost, they could be re-written by looking at us_ &ndash; Metropolitan Anthony of Sourozh
 
 > _One who sins frequently planning to eventually repent, is often cut down by death, depriving him of the time he was counting on to do good deeds_ &ndash; St. Ignaty Brianchaninov 
