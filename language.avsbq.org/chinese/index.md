@@ -1,1 +1,1 @@
-
+![image](.pix/frequency.webp)

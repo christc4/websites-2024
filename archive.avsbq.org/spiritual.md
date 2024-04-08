@@ -65,6 +65,10 @@ We do not know if we are on Heaven or Earth
 
 > _Whatever you do, on no account condemn anyone; do not even try to judge whether a person is good or bad, but keep your eyes on that one evil person for whom you must give an account before God - yourself_ &ndash; St. Ignatius Brianchaninov
 
+> _My child, endure everything, for a crown is being woven invisibly for the head of each one of us. Winter is bitter, but paradise is sweet. Endure the frost of trials, that your feet may joyously dance in heaven_ &ndash; Elder Ephraim of Arizona, &apos;Counsels from the Holy Mountain&apos;
+
+> _Acquire the Spirit of Peace and a thousand souls around you will be saved_ &ndash; St. Seraphim of Sarov
+
 > _You fast, but Satan does not eat. You labour fervently, but Satan never sleeps. The only dimension with which you can outperform Satan is by acquiring humility, for Satan has no humility_ &ndash; St. Moses the Black
 
 > _He who does something good and expects a reward is serving not God but his own will_ &ndash; St. Mark the Ascetic
