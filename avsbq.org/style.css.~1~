@@ -1,0 +1,96 @@
+/* For unit choice guidance: https://www.reddit.com/r/css/comments/kzkthl/what_units_do_you_use_px_vw_and_vh_em_rem/ */
+
+
+.lw, ul img, dt img, footer img, dd img, p img, li img, h1 img, h2 img, h3 img, h4 img, dt img, td img, button img {
+	max-height: .8em;
+	max-width: 1em;
+	vertical-align: middle ;
+}
+
+
+
+html {
+font-family: Lora, arial, helvetica, ariel, sans-serif;
+}
+body {
+background-color: #777777;
+color: #000;
+max-width: 48em;
+margin: auto;
+    }
+time { color: #888; font-size: x-small; }
+button a:link, button a:visited {
+	  color: #000;
+  }
+
+a:link, a:visited { text-decoration: none; color: #99994c; }
+button { margin: 0 auto; background-color: #8888cc; color: #000; border-color: #888 text-align: left  }
+th, td      { border: 1px solid; }
+thead, th   { border-bottom-style: double; }
+table       { border-collapse: collapse; margin: auto; }
+p           { text-align: left; font-size: 12px; margin: 10px; }
+ol, ul, pre { text-align: left; margin-left: 2em; }
+pre         { margin-right: 6em; }
+hr { margin-left: 0em; width: 40%; }
+h2 { font-size: 14px; }
+h1 { font-size: 15px; }
+
+.fix {
+  /*text-align: left;*/
+  width: 67.8%;
+    text-align: center;
+  font-size: 15px;
+  border: 2px solid #9cefef;
+  background-image: url('/pic/fix.webp');
+ background-size: 30%;
+/*  background-color: #eaffff;*/
+  box-sizing: border-box;
+/*  overflow: hidden;*/
+  position: fixed;
+  display: block;
+  top: 0;
+  z-index: 2;
+}  
+.main {
+    width: 100%;
+    border: 2px solid #52aaad;
+  background-image: url('/pic/main.webp');
+ background-size: 45%;
+
+/*  background: repeating-linear-gradient(to bottom, #ffffaa, #ffffaa 1px, #ffffff 1px, #ffffff 2px);
+background-size: 100% 2px;*/
+/*    background-color: #ffffa;*/
+    text-align: center;
+    margin-top: 30px;
+padding-left: 20px;
+    margin-left: 90px;
+    font-size: 12px;
+    z-index: 3;
+      }
+
+#nav {
+
+/*
+	float: left;
+	background-color: #eaffff;
+        border: 2px solid #9cefef;
+	/padding: 2.5em 0;*/
+	width: 80px;
+  	position: fixed;
+  	overflow: hidden;
+	display: block;
+  	z-index: 1;
+*/
+}
+
+#nav button {
+text-align: left;
+margin-bottom: 10px;
+background-image: url('/pic/dither.webp');
+background-size: 35%;
+border: 2px solid #000000;
+color: #000;
+}
+
+
+/*@media only screen and (max-width: 600px) { button, pre, p, h1, h2, h3, h4, h5, h6 { font-size: 10px; }*/

@@ -1,0 +1,8 @@
+<div id="nav">
+	<button><a href="/">About/</a></button>
+	<button><a href="/my_works.shtml">My works/</a></button>
+	<button><a href="/gallery.shtml">Gallery/</a></button>
+	<button><a href="/doc/guides">Guides/</a></button>
+	<button><a href="/progress">Progress Pics/</a></button>
+	<button><a href="/doc/updates">Updates/</a></button>
+</div>

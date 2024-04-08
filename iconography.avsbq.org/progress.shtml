@@ -1,0 +1,9 @@
+<!--#include file="/head" -->
+<title>Progress pictures</title>
+<!--#include file="/nav" -->
+<div class="main">
+<h1>Pencil</h1>
+<img src="/pic/desk1.webp" style="max-width: 220px; height: auto;"> 
+<img src="/pic/desk2.webp" style="max-width: 220px; height: auto;"> 
+<img src="/pic/pencil_christ1.webp" style="max-width: 220px; height: auto;"> 
+<!--#include file="/foot" -->
