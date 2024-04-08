@@ -45,6 +45,12 @@ We do not know if we are on Heaven or Earth
 
 > A man saved by Christ need not fear death more than a tired man fear his bed
 
+> _Thy life, O Mary, hath been shown to be a model for all sinners who have sinned beyond measure in life, that they too, may arise and wash away their defilement with tears_
+
+>  _We must not mind insulting men, if by respecting them we offend God_ &ndash; St. John Crysostom
+
+> _Fasting clearly shows or discloses all the infirmities of our soul, all its weaknesses, deficiencies, sins, and passions; just as when muddy, standing water is beginning to be cleaned it shows what reptiles and what sort of dirt it contains_ &ndash; St. John of Kronstadt
+
 > _We should try to live in such a way that if the Gospels were lost, they could be re-written by looking at us_ &ndash; Metropolitan Anthony of Sourozh
 
 > _One who sins frequently planning to eventually repent, is often cut down by death, depriving him of the time he was counting on to do good deeds_ &ndash; St. Ignaty Brianchaninov 
