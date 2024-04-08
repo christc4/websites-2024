@@ -1,5 +1,7 @@
 # Architecture
 
+![image](ugly_church.webp)
+
 ### Art, Architecture, Design, it's all the same 
 
 Let us take two people.

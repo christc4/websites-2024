@@ -1,6 +1,7 @@
 # Equipment
 
 <img src="/.pix/suffer_or_suffer.webp" style="width: 300px; height: auto;">
+<img src=".pix/toilet_pullup.webp" style="width: 300px; height: auto;">
 
 - Doorway pullup bar
 - Wood beams

@@ -12,5 +12,6 @@
 ![image](bad_kids.webp)
 ![image](credit_card.webp)
 ![image](drunk_driving.webp)
+![image](man_in_disney_suit.webp)
 
 The classic nerd kinder fable is that there is a one-to-one trade off with intelligence and strength

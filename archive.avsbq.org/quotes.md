@@ -8,11 +8,13 @@ Names intentionally redacted
 
 > _It's trivial for God to reveal secrets such as new technology or other secrets and cause insane price disturbances and throw the whole world into complete chaos_
 
-> The road to hell is paved with people with good intentions
+> _A gem cannot be polished without friction, nor a man perfected without trials_
+
+> _The road to hell is paved with people with good intentions_
 
 > _If you crush a cockroach, you're a hero. If you crush a beautiful butterfly, you're a villain. Morals have aesthetic criteria_
 
-> The gates of hell are locked from the inside
+> _The gates of hell are locked from the inside_
 
 <!-- The world gets wider and wider and even the view I saw yesterday looks different to me today -->
 
