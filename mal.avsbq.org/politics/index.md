@@ -2,3 +2,4 @@
 ![image](military_industrial_complex.webp)
 ![image](turkey2.webp)
 ![image](turkey3.webp)
+![image](communist_dog.webp)
