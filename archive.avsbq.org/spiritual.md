@@ -39,6 +39,10 @@ We do not know if we are on Heaven or Earth
 
 > _Our home is in Heaven. Please remember that we were created for Heaven. Our whole life is just a continuous wondering on the way home_ &ndash; Hieromonk Seraphim Rose
 
+> _If you knew how quickly people would forget about you after your death, you will not seek in your life to please anyone but God_ &ndash; St. John Chrysostom
+
+> _Let not one think, my fellow Christian, that only priests and monks need to pray without ceasing and not laymen. No, no; every Christian without exception ought to dwell always in prayer_ &ndash; St. Gregory Palamas
+
 > A man saved by Christ need not fear death more than a tired man fear his bed
 
 > _We should try to live in such a way that if the Gospels were lost, they could be re-written by looking at us_ &ndash; Metropolitan Anthony of Sourozh

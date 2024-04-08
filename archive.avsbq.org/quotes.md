@@ -4,6 +4,8 @@ Names intentionally redacted
 
 <!-- If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem -->
 
+> _Beauty occupies a narrow band but ugliness has infinite variation_
+
 > _It's trivial for God to reveal secrets such as new technology or other secrets and cause insane price disturbances and throw the whole world into complete chaos_
 
 > The road to hell is paved with people with good intentions
