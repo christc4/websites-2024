@@ -84,3 +84,7 @@ I've saved the best for last. Tailoring is timeless. Fashion is
 > _Oh Kirby [Kirby Allison], you're turning us all into gentlemen. I even got out the bath for a pee yesterday_
 
 > _I just sew the bottoms of all my shirts to the waistband of my trousers, effectively making them a onepiece bodysuit. Now they are always together and always looking sharp!_
+
+### Fabrics
+
+>   _How much junk is being produced now! Wool is slowly being taken out of use. Finding a wooden shirt to soak up sweat is a problem. When I put on a shirt, I immediately notice if it has synthetic fiber. If it does, I can't breathe, I'm all sore, I just can't stand it! They believe that such shirts are more durable and better than natural ones. They think that this is progress! Well, are they good for your health? No, on the contrary, when making and wearing such things, people damage their health. They put a label &apos;Made of Pristine Pure Wool&apos; on those shirts. Sure, I guess they can find many more words for advertising, even sweeter ones! We have sheep now only for meat, because we make wool from oil. Silkworm caterpillars say, &ldquo;Well, if you want better silk than ours, then make it yourself!&rdquo;_
