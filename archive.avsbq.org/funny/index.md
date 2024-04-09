@@ -7,3 +7,4 @@
 ![image](1000pounds.webp)
 ![image](pickle_rick.webp)
 ![image](trump_programming.webp)
+![image](quora_soprano.webp)

@@ -78,3 +78,9 @@ Tail
 # &ldquo;Fashion&rdquo;
 
 I've saved the best for last. Tailoring is timeless. Fashion is 
+
+### Quotes
+
+> _Oh Kirby [Kirby Allison], you're turning us all into gentlemen. I even got out the bath for a pee yesterday_
+
+> _I just sew the bottoms of all my shirts to the waistband of my trousers, effectively making them a onepiece bodysuit. Now they are always together and always looking sharp!_
