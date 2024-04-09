@@ -13,3 +13,7 @@
 > Horse in the race
 
 > Cave into your
+
+> Window of opportunity
+
+> Sling-shotting past
