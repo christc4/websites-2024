@@ -1,3 +1,6 @@
+### A place of reflection
+
+> Nothing here belongs to me, the source .html may contain the original links/artists 
 
 <img src="/ico/theotokos_softoner.webp" style="max-width: 200px; height: auto;">
 <img src="/ico/theotokos_baby.webp" style="max-width: 200px; height: auto;">
@@ -42,4 +45,5 @@
 ![image](ico/new_adam_new_eve.webp)
 ![image](ico/christ_mural2.webp)
 ![image](ico/christ_mural1.webp)
+![image](ico/ordination_erika_armusik.webp)
 <!--Dom Gregory de Wit, OSB, Protoevangelium, 1946–55. Refectory wall mural, Saint Joseph Abbey, St. Benedict, Louisiana.-->
