@@ -80,3 +80,5 @@ We do not know if we are on Heaven or Earth
 > _There are those who confess with their mouth while desiring in their heart to commit the sin again, and thus resemble the dog which returns to his vomit, or the pig, which having been washed and cleaned, returns again to wade in the mud_ &ndash; Elder Cleopa of Romania
 
 > _There is no better way to teach a child Christianity than to live it truly and from the heart. You cannot teach what you do not live_ &ndash; St. Silouan the Athonite
+
+> _Do you think that He who numbers the hairs of your head does not know the measure of your suffering? Yes, He knows it, therefore be at rest, trusting in our Heavenly Father_ &ndash; Elder Ephraim of Arizona

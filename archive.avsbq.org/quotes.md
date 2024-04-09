@@ -20,6 +20,8 @@ Names intentionally redacted
 
 >  Necessity is the mother of all invention
 
+> _Stop scrimping on pennies, as it will cost you pounds in the long run_
+
 - Give them bread and circuses and they will never revolt
 
 - One of my most productive days was throwing away 1000 lines of code
