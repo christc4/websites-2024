@@ -92,3 +92,5 @@ We do not know if we are on Heaven or Earth
 > _Be patient in everything; remember that Christ was reviled, slapped, whipped, and finally crucified on the Cross. Since He endured these things for us, we too must endure similar things for His love, but also for the salvation of us who have so many sins_ &ndash; Elder Ephraim of Arizona
 
 > _Death is transfiguration. Don't be afraid of death; rather be afraid of the Judgement Day. WHen you go in for examination before your professor, your heart starts palpitating; imagine how you will feel before the Creator. Greatness of God is incomparable_ &ndash; St. Gabriel of Georgia
+
+> _Is it not excessively ridiculous to seek the good opinion of those whom you would never wish to be like?_ &ndash; St. John Chrysostom (Homilies on the Gospel of St. John, Homily III)
