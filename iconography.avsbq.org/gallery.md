@@ -38,3 +38,8 @@
 <!-- OTHER -->
 <img src="/ico/libyen_martyrs.webp" style="max-width: 200px; height: auto;">
 <img src="/ico/st_rublev.webp" style="max-width: 600px; height: auto;">
+
+![image](ico/new_adam_new_eve.webp)
+![image](ico/christ_mural2.webp)
+![image](ico/christ_mural1.webp)
+<!--Dom Gregory de Wit, OSB, Protoevangelium, 1946–55. Refectory wall mural, Saint Joseph Abbey, St. Benedict, Louisiana.-->
