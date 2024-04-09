@@ -1,6 +1,6 @@
-
-
 ### Wei Koh's morning suit
+
+#### Made by Dario Carnera
 
 [source](https://therake.com/stories/ive-seen-the-light)
 
@@ -10,3 +10,7 @@
 
 
 ![image](.pix/wei_koh_morning_suit_fitting.webp)
+
+>  A 10-and-a-half-ounce feather weave cloth was chosen for the black morning suit jacket, to be worn with cashmere-striped trousers.
+
+> For the black morning suit jacket and waistcoat, Carnera selected a 10-and-a-half-ounce feather weave, which is a very small herringbone considering it would be worn during summer. “This is the most classic cloth used for morning coats,” Carnera said. He added a grey double-breasted waistcoat to this ensemble, which he said he would prefer if I decided to wear the black jacket to Ascot. He explained: “This vest is from 10-and-a-half-ounce dove-grey hopsack wool — also a classic for morning dress.” Both waistcoats would be fitted with the prescribed dress slips. The first example of his steady guidance appeared as I started to lean towards the more boldly striped pattern for the ‘cashmere’ trousers, which he subtly explained might be “a bit much” — in other words, would make me look as though I’d escaped from a circus tent. He added: “The term cashmere refers to the stripe and not the cloth, which is 100 per cent wool.” For the grey morning suit he selected a 10-and-a-half-ounce pick-and-pick weave wool otherwise known as sharkskin, which is the preferred option if you want a morning suit in all one colour.
