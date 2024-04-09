@@ -19,7 +19,7 @@
 <img src="/ico/samson.webp" style="max-width: 200px; height: auto;">
 
 <img src="/ico/angel.webp" style="max-width: 200px; height: auto;">
-
+![image](ico/angel2.webp)
 <!-- SCENES -->
 <img src="/ico/wilton_diptych.webp" style="max-width: 400px; height: auto;">
 
