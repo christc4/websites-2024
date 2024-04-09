@@ -8,3 +8,6 @@
 
 > Make perfect the enemy of good
 
+> Skin in the game
+
+> Horse in the race

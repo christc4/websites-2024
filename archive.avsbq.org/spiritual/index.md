@@ -82,3 +82,9 @@ We do not know if we are on Heaven or Earth
 > _There is no better way to teach a child Christianity than to live it truly and from the heart. You cannot teach what you do not live_ &ndash; St. Silouan the Athonite
 
 > _Do you think that He who numbers the hairs of your head does not know the measure of your suffering? Yes, He knows it, therefore be at rest, trusting in our Heavenly Father_ &ndash; Elder Ephraim of Arizona
+
+> _The FIRST one who got to heaven was a thief and the FIRST one to go to hell was the DISCIPLE of Christ and the way it all happened is a great lesson for us. Therefore, a person should never despair, nor give up on another_ &ndash; Met.Athanasius of Limasso
+
+> _There is no man more intelligent than the merciful one who gives away earthly, perishable things and buys imperishable, heavenly things. Likewise, there is no greater fool in the world than the greedy one who gathers things continually and yet is deprived continually, finally buying hell with his collected savings_ &ndash; St. Paisios the Athonite
+
+> _Be quiet often and speak little&hellip; Silence will enter your heart and your spirit will be calm and full of peace_ &ndash; St. Seraphim of Sarov

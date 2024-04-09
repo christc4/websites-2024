@@ -8,6 +8,8 @@
 
 > C with no libs! Someone tell Ben Shapiro!
 
+> I train till my bicep tear
+
 > It costs nothing to be nice, it also costs nothing to be an as$hole
 
 > &ldquo;The Demons! The Demons! They will come from the Twitter Space&rdquo - Unknown Saint
