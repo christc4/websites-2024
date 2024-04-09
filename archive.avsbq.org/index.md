@@ -7,3 +7,5 @@
 > &ndash; random netizen
 
 There's a lot of deadlinks out there, you'll have to hire a resussicator or commence a seance with the wayback machine to access those pages&hellip; I've cached a few gems here, providing the original link whenever I can.
+
+Some pages here are refugees from other sites.

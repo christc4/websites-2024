@@ -1,6 +1,6 @@
 NOTHING HERE IS MY PERSONAL OPINION
 
-![image](.pix/depart_from_me.webp)
+![image](depart_from_me.webp)
 
 # On hating things
 
@@ -76,5 +76,7 @@ We do not know if we are on Heaven or Earth
 > _To say that God turns away from the sinful is like saying that the sun hides from the blind_ &ndash; St. Anthony the Great
 
 > _Don't talk to me of female beauty, rather virtues of her soul. A beautiful woman who has not decorated herself with virtue is like a painted coffin_ - St. John Chrysostom
+
+> _There are those who confess with their mouth while desiring in their heart to commit the sin again, and thus resemble the dog which returns to his vomit, or the pig, which having been washed and cleaned, returns again to wade in the mud_ &ndash; Elder Cleopa of Romania
 
 > _There is no better way to teach a child Christianity than to live it truly and from the heart. You cannot teach what you do not live_ &ndash; St. Silouan the Athonite

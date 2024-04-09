@@ -15,7 +15,6 @@ people may notionally care about software openness but never freedom
 make a bsd shell script that will push every single one of my repos
 and set up multiple gits
 
-in the wake of his death
 
 practice smooth talking, learn from reddit@
 cv, xerox park
@@ -41,8 +40,8 @@ research rabbi nahman
 https://gist.github.com/xdanger/116153
 https://git.sr.ht/~knazarov/markdown.awk
 http://harmful.cat-v.org/software/c++/I_did_it_for_you_all
-Some of the projects here are refugees from other sites that have either disappeared or moved.
 who will take over the reigns of power when the world falls
+
 https://legacy.imagemagick.org/Usage/quantize/
 
 convert thinker.webp -resize 384 -dither FloydSteinberg -remap pattern:gray50 thinker.webp
@@ -479,8 +478,7 @@ On my website homepage thoughts list,
 sanding keycaps machine filled with sand
 
 vim notes
-write article on mal-features, talk about how you love the prefix mal - as it instantly tells you if something is harmful :)
-fountain pen - the only good fountain pen for me was... it was love at first sight... i do not care much for the hobby, the first was originally from japan, later the price skyrocketed, i bought another one from amazon and it was sratchy.
+
 
 I LOVE THE SCRATCHPAD FEATURE IN DWM
 

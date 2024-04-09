@@ -1,5 +1,5 @@
 ![image](chicken.webp)
 ![image](potato_makeup.webp)
 ![image](monkey_cashier.webp)
-![image]()
+![image](why_say_based.webp)
 ![image]()

@@ -1,10 +1,11 @@
 # Currently
 
 This server lives on an vult server, running openbsd. 
+Markdown does all heavy lifting for you, the nice thing about it is its portability, if for some reason I wanted to print out my webpages, 
 
 # Previously
 
-Most recently, I was using SSI, .shmtl, although this was sup-optimal.
+Most recently, I was using SSI, .shmtl, although this was sup-optimal and stupid if you have a million webpages.
 I've mainted several github.io sites in the past, in principle - those are good for understanding the basics of websites but no serious person should keep a website on them - except for standalone software sites.
 
 # Ideally&hellip;
