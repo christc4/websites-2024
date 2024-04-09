@@ -4,7 +4,9 @@
 
     - [YouTube](https://www.youtube.com/@EoinReardon/videos)
 
-- [Luke Smith](https://lukesmith.xyz) - Possibly dead?
+- Luke Smith - Possibly dead?
+
+    Linux, Linguistics, Lifestyle, Philosophy, Economics etc
 
     _&ldquo;We're in the closet today. No homo&rdquo;_
     
@@ -14,17 +16,20 @@
     - [Peertube](https://videos.lukesmith.xyz)
     - [GitHub](https://github.com/Lukesmithxyz)
 <br><br>
-    - [LARBS](https://larbs.xyz)
-    - [based.cooking](https://based.cooking)
-    - [landchad.net](https://landchad.net)
+    - [Personal site](https://lukesmith.xyz) 
+    - [LARBS](https://larbs.xyz) - Arch/Artix bootstrapping script
+    - [based.cooking](https://based.cooking) - Recipe site without the ads/trackers
+    - [landchad.net](https://landchad.net) - Guide to setting up websites/self-hosting.
 
 - Mental Outlaw
+
+    Linux, Privacy
 
     _&ldquo;Mental Outlaw is the only black guy that can manage to sound like a white guy impersonating a black guy&rdquo;_
 
     - [Odysee](https://odysee.com/@AlphaNerd:8)
 
-- [Jay Dyer](https://jaysanalysis.com) - _PhD in CIA (Culinary Institute of America)_
+- Jay Dyer - _PhD in CIA (Culinary Institute of America)_
 
     _Jay Jay Jay - &ldquo;Your neurolinguistic programming isn't going to work on me&rdquo;<br>Legend has it, if you say Jay's name 5 times in front of a mirror he'll summon - ready to debate you
 
@@ -32,7 +37,20 @@
     - [Odysee](https://odysee.com/@JayDyer:8)
     - [Rumble](https://rumble.com/c/JayDyer)
     - [Rofkin](https://rokfin.com/jaydyer)
+<br><br>
+    - [Personal site](https://jaysanalysis.com)
 
-- [Xah Lee](http://xahlee.org/index.html)
+- Kirby Allison
 
-> _&ldquo;Unix fak heads!&rdquo;_
+    Bespoke tailoring/shoemaking, cigars
+
+    - [Personal site/business](https://kirbyallison.com)
+
+- [Xah Lee]
+    
+    Ergonomics, Emacs, Programming
+
+    &ndash; _&ldquo;Unix fak heads!&rdquo;_
+
+
+    - [Personal site](https://xahlee.org/index.html)
