@@ -10,8 +10,8 @@
     </div>
 
     <div>
-      <a href="https://profile.avsbq.org/"><i>profile</i></a> |
-      <a href="https://avsbq.org/.videos">vids</a> -
+      <a href="https://profile.avsbq.org/"><i>profile</i></a> ~
+      <a href="https://avsbq.org/.videos">vids</a> ~
       <a href="https://avsbq.org/.webring">webring</a>
     </div>
 
