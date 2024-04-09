@@ -1,6 +1,6 @@
     <div>
       <a href="https://profile.avsbq.org"><div class="square"></div></a>
-      >)<
+      hey
       <a href=".cv">cv</a>
     </div>
 
