@@ -3,4 +3,6 @@
 ![image](monkey_cashier.webp)
 ![image](why_say_based.webp)
 ![image](man_eating_bear.webp)
-![image]()
+![image](laughs_in_british.webp)
+![image](1000pounds.webp)
+![image](trump_programming.webp)
