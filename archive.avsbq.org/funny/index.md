@@ -5,4 +5,5 @@
 ![image](man_eating_bear.webp)
 ![image](laughs_in_british.webp)
 ![image](1000pounds.webp)
+![image](pickle_rick.webp)
 ![image](trump_programming.webp)
