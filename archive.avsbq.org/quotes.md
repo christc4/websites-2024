@@ -41,3 +41,4 @@ Names intentionally redacted
     Then they came for the Xs, and I did not speak out-because I was not a Z.
 
     Then they came for me-and there was no one left to speak for me.
+

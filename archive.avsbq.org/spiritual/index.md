@@ -88,3 +88,7 @@ We do not know if we are on Heaven or Earth
 > _There is no man more intelligent than the merciful one who gives away earthly, perishable things and buys imperishable, heavenly things. Likewise, there is no greater fool in the world than the greedy one who gathers things continually and yet is deprived continually, finally buying hell with his collected savings_ &ndash; St. Paisios the Athonite
 
 > _Be quiet often and speak little&hellip; Silence will enter your heart and your spirit will be calm and full of peace_ &ndash; St. Seraphim of Sarov
+
+> _Be patient in everything; remember that Christ was reviled, slapped, whipped, and finally crucified on the Cross. Since He endured these things for us, we too must endure similar things for His love, but also for the salvation of us who have so many sins_ &ndash; Elder Ephraim of Arizona
+
+> _Death is transfiguration. Don't be afraid of death; rather be afraid of the Judgement Day. WHen you go in for examination before your professor, your heart starts palpitating; imagine how you will feel before the Creator. Greatness of God is incomparable_ &ndash; St. Gabriel of Georgia
