@@ -30,4 +30,5 @@
 
 > _We don't need your origin story, we know you're a villain_
 
+> _Imagine u hit the gym and ur trying to build urself up only for Purple Aki not to feel ur muscles you'd be gutted_
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">

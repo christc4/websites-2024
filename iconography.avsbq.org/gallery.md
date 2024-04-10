@@ -46,4 +46,7 @@
 ![image](ico/christ_mural2.webp)
 ![image](ico/christ_mural1.webp)
 ![image](ico/ordination_erika_armusik.webp)
+![image](ico/josef-eugen-hoerwarter-girl-crucifix.webp)
+<!--(Vienna 1854-1925)
+A Wayside Shrine, signed Hörwarter, oil on canvas, 41 x 26 cm, framed, (Rei)-->
 <!--Dom Gregory de Wit, OSB, Protoevangelium, 1946–55. Refectory wall mural, Saint Joseph Abbey, St. Benedict, Louisiana.-->
