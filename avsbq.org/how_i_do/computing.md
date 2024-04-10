@@ -43,5 +43,12 @@ Ordered by usage
 I like standing desks,
 run this command for blue light,
 
+I speak about this in hushed tones, this is my old &apos;gaming&apos; pc (insert soyjack now)
+
+![image](.pix/gaming_pc.webp)
+![image](.pix/gaming_pc2.webp)
+
 `gammastep -l 31.4:64.1 -t 5700:3600 -g 0.8 -m randr -v`
+
+
 
