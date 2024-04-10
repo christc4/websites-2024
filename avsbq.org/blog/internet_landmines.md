@@ -1,7 +1,13 @@
-<h1>Internet landmines&hellip; or treasure chests?</h1>
-<p>Our modern-web is undoubtedly overrun with landmines. Pornography, propaganda and all things evil have spread their wings over every inch of the web. With the occasional treasure chest tucked somewhere obscure&hellip; Your average user shouldn't need to hack through all that with his machete just to reach the gold.</p>
+# Internet landmines&hellip; or treasure chests?
 
-<p>When computers weren't powerful enough to display video, ads or trackers&hellip; the web was primarily limited to text. Users would click to their hearts contents, whereupon they'd be greeted with beautifully-ugly blobs of HTML. Of course, as time went by websites could acomplish a multitude of new things and so with that came the advent of internet pornography&hellip;</p>
+Our modern-web is undoubtedly overrun with landmines. Pornography, propaganda and all things evil have spread their wings over every inch of the web. With the occasional treasure chest tucked somewhere obscure&hellip; Your average user shouldn't need to hack through all that with his machete just to reach the gold.
+
+<p>When computers weren't powerful enough to display video, ads or trackers&hellip; the web was primarily limited to text. Users would click to their hearts contents, whereupon they'd be greeted with beautifully-ugly blobs of HTML. Of course, as time went by websites could acomplish a multitude of new things and so with that came the advent of internet pornography, AI and various other evils&hellip;</p>
+
+And don't get me started on AI made videos, they are along the worst offenders
+
+![image](.pix/yt_boar.webp)
+![image](.pix/roel.webp)
 
 <h2>So where are these treasure chests?</h2>
 <p>I won't withold the meat of this article any longer. Here's your <a href="https://wiby.me">treasure map</a>. Wiby.me is my go-to for information on obscure topics. Want to do some internet archaelogy and dig up some 90's webpages? Look no more! Modern pages are also indexed so long as they're minimal and without javascript. By default, you won't find a trace of pornography there.</p>
