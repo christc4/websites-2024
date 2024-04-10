@@ -5,6 +5,6 @@
     </div>
 
     <div>
-      | <a href="">webring</a> |
+      | <a href="https://avsbq.org/.webring">webring</a> |
     </div>
 
