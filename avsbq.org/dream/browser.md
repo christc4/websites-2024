@@ -4,10 +4,17 @@ Number 1:
 
 - No-features
 
-That's right, I don't want bookmarks, tabs, history. 
+That's right, I don't want bookmarks, tabs, history, no address bar
 I want it all managed externally.
+Even keybindings.
+All I want my browser to do is view HTML/CSS pages and work with Javascript.
 This is a given but also no "user reports" for bugs/crashes etc, I want to be able to individually submit an issue on the git page.
+Sort of like how you can patch the suckless terminal to support scrollback, I'd like that in my browser but without the patch. I don't want anything baked in the code.
 
+### Technical aspects&hellip;
+
+Gtk or Qt?
+I'd like it written in golang.
 
 ### Browsers that almost made the mark
 
