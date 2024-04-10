@@ -1,6 +1,5 @@
     <div>
-      <a href="https://avsbq.org"><div class="square"></div></a>  
-      >_< 
+      <a href="https://avsbq.org"><div class="square"></div></a> ִ ִ ִ ִ
       <a href="https://archive.avsbq.org">archive</a> -
       <a href="https://mal.avsbq.org">mal</a> -
       <a href="https://language.avsbq.org">languages</a> -
