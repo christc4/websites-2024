@@ -4,7 +4,7 @@ Number 1:
 
 - No-features
 
-That's right, I don't want bookmarks, tabs, history, no address bar
+That's right, I don't want bookmarks, tabs, history, no address bar, no password management.
 I want it all managed externally.
 Even keybindings.
 All I want my browser to do is view HTML/CSS pages and work with Javascript.
