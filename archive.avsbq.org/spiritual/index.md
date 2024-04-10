@@ -94,3 +94,5 @@ We do not know if we are on Heaven or Earth
 > _Death is transfiguration. Don't be afraid of death; rather be afraid of the Judgement Day. WHen you go in for examination before your professor, your heart starts palpitating; imagine how you will feel before the Creator. Greatness of God is incomparable_ &ndash; St. Gabriel of Georgia
 
 > _Is it not excessively ridiculous to seek the good opinion of those whom you would never wish to be like?_ &ndash; St. John Chrysostom (Homilies on the Gospel of St. John, Homily III)
+
+> _There is no profit in studying doctrines unless the life of one's soul is acceptable and conforms to God's will. THe cause of all evils is delusion, self-deception and ignorance of God_ &ndash; St. Anthony the Great

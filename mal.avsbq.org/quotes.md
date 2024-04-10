@@ -2,13 +2,15 @@
 
 > The di&amp;ldo of consequences rarely arrives lubed
 
+> _Drunk drivers are the second most oppressed group (after gamers)_
+
 > It looks like a haybale decided to take a nap on his chin
 
-> The Chromium codebase is about 5M SLOC, and much of that code resembles ancient and powerful incantations that could make the dead walk amongst the living
+> _The Chromium codebase is about 5M SLOC, and much of that code resembles ancient and powerful incantations that could make the dead walk amongst the living_
 
-> C with no libs! Someone tell Ben Shapiro!
+> _C with no libs! Someone tell Ben Shapiro!_
 
-> I train till my bicep tear
+> _I train till my bicep tear, I pass out before I tap out_
 
 > It costs nothing to be nice, it also costs nothing to be an as$hole
 
@@ -31,4 +33,7 @@
 > _We don't need your origin story, we know you're a villain_
 
 > _Imagine u hit the gym and ur trying to build urself up only for Purple Aki not to feel ur muscles you'd be gutted_
+
+> _During my interview today I poured some water into a cup and it overflowed a little bit. &ldquo;Nervous?&rdquo; asked the interviewer. I simply replied, &ldquo;No I just always give 110&#37;&rdquo; &ndash; Someone on twitter
+
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">
