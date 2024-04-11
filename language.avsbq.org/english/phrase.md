@@ -27,3 +27,5 @@
 > Bated breath
 
 > Fashionably late
+
+> Pulling out all the stops
