@@ -1,10 +1,24 @@
-[Genesis](http://archive.avsbq.org/bible/genesis)
+### Old Testament
 
-[Exodus](http://archive.avsbq.org/bible/exodus)
+[Genesis](genesis)
 
-[Leviticus](http://archive.avsbq.org/bible/leviticus)
+[Exodus](exodus)
 
-[Numbers](http://archive.avsbq.org/bible/numbers)
+[Leviticus](eviticus)
+
+[Numbers](numbers)
+
+[Deuteronomy](deuteronomy)
+
+[Joshua](joshua)
+
+[Judges](judges)
+
+[Ruth](ruth)
+
+[1 Samuel](1samuel)
+
+[2 Samuel](2samuel)
 
 [](http://archive.avsbq.org/bible/)
 [](http://archive.avsbq.org/bible/)
