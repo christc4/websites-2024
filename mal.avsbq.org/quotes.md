@@ -36,4 +36,7 @@
 
 > _During my interview today I poured some water into a cup and it overflowed a little bit. &ldquo;Nervous?&rdquo; asked the interviewer. I simply replied, &ldquo;No I just always give 110&#37;&rdquo; &ndash; Someone on twitter
 
+> _Flex tape can even patch your marriage back together_
+
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">
+
