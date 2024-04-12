@@ -6,11 +6,11 @@ Cold enough to dissuade tourists. Warm enough to feel my face.
 
 ### Location
 
-Far-far-far away from any urban city. Preferably in a wooded/forested area, ideally located near springs/river/running water.
+Somewhere far-far-far away. Preferably in a wooded/forested area, ideally located near springs/river/running water.
 
 ### Materials
 
-Cobblestone, or Concrete block
+Ideally all locally sourced. Cobblestone, thatched roof. But concrete blocks could work.
 
 ### Insulation
 
@@ -19,6 +19,8 @@ Cobblestone, or Concrete block
 Hand-crank well
 
 ### Attic/loft
+
+### Basement
 
 ### Toiletry
 
