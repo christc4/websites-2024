@@ -24,5 +24,8 @@
     %($"extraHeaders%)
 
 </head>
+
+
+<a href="../" class="up-button"><i>↩ %($req_path%)</i></a>
 <body>
 
