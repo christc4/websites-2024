@@ -59,7 +59,7 @@ height: 30px;
 width: 150px;
 z-index: 2;
 background-color: rgba(136, 136, 204, 0.4); /* Hex #8888cc with 50% transparency */
-color: rgba(0, 0, 0, 0.4); /* Hex #8888cc with 50% transparency */
+color: rgba(0, 0, 0, 0.5); /* Hex #8888cc with 50% transparency */
 text-decoration: none;
 cursor: pointer;
 /* Ensure the text stays within the button */
