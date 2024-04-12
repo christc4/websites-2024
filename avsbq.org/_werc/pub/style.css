@@ -49,17 +49,24 @@ table { border: 1px solid rgba(128,128,128,0.5); padding: 0; }
 th { color: white; background-color: rgb(100,135,220); }
 tr:nth-child(odd) { background-color: rgba(128,128,128,0.1)  }
 
+
 .up-button {
 position: fixed;
 top: 6%;
 left: 50%;
 transform: translate(-50%, -50%);
-height: 80px;
-width: 100px;
+height: 30px;
+width: 150px;
 z-index: 2;
-color: #000;
-background-color: rgba(136, 136, 204, 0.8); /* Hex #8888cc with 50% transparency */
+background-color: rgba(136, 136, 204, 0.4); /* Hex #8888cc with 50% transparency */
+color: rgba(0, 0, 0, 0.4); /* Hex #8888cc with 50% transparency */
 text-decoration: none;
 cursor: pointer;
+/* Ensure the text stays within the button */
+text-overflow: ellipsis; /* Add ellipsis (...) to indicate text overflow */
+overflow: hidden; white-space: nowrap; /* Prevent text from wrapping */
+/* Adjust text properties if necessary */
+font-size: 12px; /* Adjust font size as needed */
+line-height: 30px; /* Center text vertically */
 }
 

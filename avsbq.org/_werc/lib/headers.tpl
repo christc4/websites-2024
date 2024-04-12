@@ -18,7 +18,7 @@
 %   echo '    <meta name="keywords" content="'$"meta_keywords'">'
 
 % h = `{get_lib_file headers.inc}
-% if(! ~ $#h 0)
+% if(: ~ $#h 0)
 %   cat $h
 
     %($"extraHeaders%)
@@ -26,6 +26,6 @@
 </head>
 
 
-<a href="../" class="up-button"><span style='font-size:30px;'>&#8617;</span><i>%($req_path%)</i></a>
+<a href="../" class="up-button"><span style='font-size:14px;'>&#8617;</span><i>%($req_path%)</i></a>
 <body>
 
