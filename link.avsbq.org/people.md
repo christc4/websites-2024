@@ -50,6 +50,8 @@
     
     Ergonomics, Emacs, Programming
 
+    _&ldquo;Dark theme is no good. You don't live in the darkness and see glowies&rdquo;_
+
     &ndash; _&ldquo;Unix fak heads!&rdquo;_
 
 
