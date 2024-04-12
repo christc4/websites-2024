@@ -38,5 +38,9 @@
 
 > _Flex tape can even patch your marriage back together_
 
+> _&ldquo;Bunnies have lots of &dollar;&euro;&ast; and we still think they're cute and pure. Let's treat &ast;&ast;&ast; the same way&rdquo; &ndash; Rabbits also malte for life you vapid communal fleshl&ast;g&ast;t_
+
+
+
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">
 
