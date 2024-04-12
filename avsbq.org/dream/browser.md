@@ -11,6 +11,7 @@ All I want my browser to do is view HTML/CSS pages and work with Javascript.
 This is a given but also no "user reports" for bugs/crashes etc, I want to be able to individually submit an issue on the git page.
 Sort of like how you can patch the suckless terminal to support scrollback, I'd like that in my browser but without the patch. I don't want anything baked in the code.
 
+In fact, I don't want it to have image viewers, or pdf viewers built in, even if its of a dependency sort of interacting with gtk. I want pdfs to open in /tmp with my viewer, and images to, que the article of the unix fast food
 ### Technical aspects&hellip;
 
 Gtk or Qt?
