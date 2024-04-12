@@ -51,14 +51,14 @@ tr:nth-child(odd) { background-color: rgba(128,128,128,0.1)  }
 
 .up-button {
 position: fixed;
-top: 50%;
+top: 6%;
 left: 50%;
 transform: translate(-50%, -50%);
-height: 35px;
-width: 70px;
+height: 80px;
+width: 100px;
 z-index: 2;
-background-color: #8888cc;
 color: #000;
+background-color: rgba(136, 136, 204, 0.8); /* Hex #8888cc with 50% transparency */
 text-decoration: none;
 cursor: pointer;
 }

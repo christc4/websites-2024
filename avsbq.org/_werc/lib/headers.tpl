@@ -26,6 +26,6 @@
 </head>
 
 
-<a href="../" class="up-button"><i>↩ %($req_path%)</i></a>
+<a href="../" class="up-button"><span style='font-size:30px;'>&#8617;</span><i>%($req_path%)</i></a>
 <body>
 
