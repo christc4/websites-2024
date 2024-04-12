@@ -1,3 +1,9 @@
+# How I do websites
+
+## Backups
+
+As of right now, I run a [script](https://tutorial.avsbq.org/software/shell/posix/git)
+
 # Currently
 
 This server lives on an vult server, running openbsd. 
