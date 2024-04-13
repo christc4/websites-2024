@@ -52,8 +52,8 @@ tr:nth-child(odd) { background-color: rgba(128,128,128,0.1)  }
 
 .up-button {
 position: fixed;
-top: 6%;
-left: 50%;
+top: 80%;
+left: 6%;
 transform: translate(-50%, -50%);
 height: 30px;
 width: 150px;
