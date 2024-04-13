@@ -46,6 +46,12 @@
 
     - [Personal site/business](https://kirbyallison.com)
 
+- Niklas Hoppe (Vintagebursche)
+
+    - [YouTube](https://www.youtube.com/c/vintagebursche)
+<br><br>
+    - [Personal site](https://vintagebursche.de/?lang=en)
+
 - [Xah Lee]
     
     Ergonomics, Emacs, Programming
