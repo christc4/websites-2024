@@ -13,3 +13,7 @@ But it doesn't end there, because the nitrogenous fertiliser which is dissolved 
 Tomatoes, in other words, have a fossil fuel connection in three dimensions - direct heat, CO2 production and fertiliser. Energy costs are now thi single biggest costs for a greenhouse grower, exacerbated by the spike in gas prices following Russia-Ukraine.
 
 More than half the acreage in the glasshouses in the Lea Valley were left empty in 2022 - something totally unprecedented. Some growers gambled that they could afford the energy costs; others just gave up. The point here is that were it not for higher energy costs, the UK would have grown more of its own tomatoes and hence the country wouldn't have been quite so exposed to the current shortfall in supply. The fact that there might not be enough pickers for the crop due to Brexit has also to be factored in.
+
+Unfortunately, the rest of Europe is also importing more tomatoes too, and most of the nitrate fertiliser plants have closed. Most of the needed ammonia is imported from overseas. Some comes from the USA, where it is made with fracked shale gas (clearly not good for the global carbon cycle). Some comes from China, where coal is used as the initial source - an even worse outcome for the global carbon cycle!
+
+So when we finally get around to making &apos;green&apos; fertiliser from renewable energy sources, it is fair to say we will need enormous amounts of energy for fertilisers, glasshouses and &hellip; tomatoes.
