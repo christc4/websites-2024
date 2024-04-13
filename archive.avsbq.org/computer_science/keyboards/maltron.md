@@ -1,5 +1,7 @@
 # Maltron
 
+<img src=".pix/maltron_motherload.webp" style="width: 400px; height: auto;">
+
 ## Legacy Maltron keyboards
 
 > Accessed [here](https://www.maltron.com/legacy-maltron-keyboards--archive.html)
@@ -25,4 +27,16 @@
 
 > using HIDMacros to make a split MALTRON via remaps. works, but not elegantly! Also, making a Hex keyboard.
 
-> 4:12 AM · Nov 8, 2015
+> 4:12 AM · Nov 8, 201
+
+### eBay steals
+
+Chyrosan22 got his for [one whole pound](https://youtu.be/KivH6zUgSQY?si=XvfIgn2fbZCcZI71), that's pound as in &pound;. To which he made an enormous profit of in the second-hand market.
+
+<img src=".pix/maltron_ebay_steal1.webp" style="width: 500px; height: auto;">
+<img src=".pix/maltron_ebay_steal2.webp" style="width: 500px; height: auto;">
+<img src=".pix/maltron_ebay_steal3.webp" style="width: 500px; height: auto;">
+
+### Rest in peace Stephen Hobday
+
+<img src=".pix/stephen_hobday_typing.webp" style="width: 500px; height: auto;">
