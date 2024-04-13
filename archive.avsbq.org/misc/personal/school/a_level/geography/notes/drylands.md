@@ -4,7 +4,7 @@
 
 Around one third of the land on Earth can be classified as dryland (Figure 1), where there is a water-balance deficit.
 
-![image](.pix/location_of_deserts.webp)
+<!--![image](.pix/location_of_deserts.webp)-->
 
 ### The water-balance and the aridity index
 
@@ -51,4 +51,52 @@ Hot tropical deserts like the Sahara are a direct result of the atmospheric circ
 
 *Figure 2. The general atmospheric circulation*
 
-![image](.pix/the_general_atmospheric_circulation.webp)
+<!--![image](.pix/the_general_atmospheric_circulation.webp)-->
+
+*Distance from the coast*
+
+The second major cause of aridity is a location far enough inland to be away from the influence of moist maritme air masses. Rainfall decreases rapidly away from the coast in all parts of the world except those close to the equator. The drying influence of a large land mass is sometimes described as continentality, and this applies to all big deserts, including the great tropical deserts of Arabia, Australia, and the Sahara. In these hot tropical deserts, the dryness caused by latitude is accentuated by continentality. The deserts of central Asia, including the Taklamakan and Gobi deserts of China and Mongolia, are in the interior of mid-latitude continental regions far from the oceans. They are bitterly cold in winter, with temperatures falling as low as –40°C and can experience summer temperatures close to 50°C, which is nearly as hot as the southern Libyan Desert, in the Sahara, in July and August.
+
+*Deserts flanked by cold ocean currents*
+
+Two other factors may either increase the aridity resulting from latitude and continentality or may be the dominant cause of reduced precipitation. These two factors are cold oceanic water immediately offshore from coastal deserts, and the rain- shadow effect created by high mountains. These factors may operate individually or together. The presence close offshore of cold upwelling water or a cold ocean current can cause coastal aridity in tropical and even in equatorial latitudes such as the arid Horn of Africa, flanked by the cold Somali current. In fact, the western borders of all the great tropical or trade-wind deserts in both hemispheres are washed by cool ocean currents associated with the oceanic circulation cells which flow clockwise in the northern and anticlockwise in the southern hemisphere. These include the Atacama and Kalahari deserts. If cool moist maritime air blows onshore it often meets a land surface that is warmer than the adjacent ocean surface, at least in summer and during the day. The cool maritime air mass becomes warmer on contact with the warm surface of the land. The relative humidity of this air mass is therefore decreased, and its ability to absorb additional moisture from surface evaporation is increased. The air therefore has a drying effect upon the land.
+
+Coastal fogs
+
+The main sources of moisture in these often quite narrow coastal deserts are the coastal fogs that blow inland in winter when the land has cooled down relative to the sea-surface temperatures. Coastal fogs are quite common in deserts where mountain ranges like the Andes or the Rockies run parallel and close to the shore.
+
+Rain-shadow deserts
+
+The fourth cause of aridity is the rain-shadow effect, which is a natural phenomenon linked to topography. It is not restricted to deserts. Wherever ranges of hills or mountains lie close to the coast, forming a physical barrier to onshore winds, the incoming moist maritime air will be forced upwards. As described earlier, moist air becomes cooler as it rises and expands, attains vapour saturation, and sheds its condensed water vapour as rain or snow. The air then passes over the coastal ranges and flows downhill, becoming warmer and drier. The area inland of the coastal ranges is described as in the rain-shadow of the ranges - the air has already shed its moisture before passing over this land, which therefore gets little rain. The inland-facing slopes of high mountains are almost invariably drier than the foothills on the coast.
+
+Examples include:
+
+·         the windswept upland plains of Patagonia which lie in the rain shadow of the Andes.
+
+·         the rain-shadow deserts of New Mexico and Arizona that are downwind of the Rockies.
+
+·         both the Afar Depression and the Dead Sea Rift are flanked by high mountainous escarpments and occupy low-lying fault troughs or rifts that in places descend over 150 m below sea level.
+
+If the region inland of the coastal uplands contains high mountains, these may receive some orographic or relief rain, but if the area is flat, there will be none of this rainfall. The gravel plains (serir) of the southern Libyan Desert and the sandstone plateaux (hamada) of the central Sahara, the gobi plains of northern China and Mongolia and the gibber plains of central Australia are all good examples of extreme (hyper) arid environments with very little surface relief. On these stony desert surfaces rainfall and runoff are minimal, and plants and animals are exceedingly rare, even by desert standards.
+
+The high summer temperatures in all these deserts cause high rates of evaporation so that, except for extreme downpours (which are soon lost in flash floods), any rain that falls in summer does little to moisten the soil and help plant growth.
+
+Past climates in deserts.
+
+[Pleistocene - a geological period stretching from 2 million years BP (before present) to 10000 years BP. It was characterised by a series of alternating cold phases (glacials) and warm phases (interglacials) collectively known as the Ice Ages.]
+
+During the Ice Ages of the Pleistocene, the world was very different from today. Many deserts were subjected to increased rainfall - periods known as pluvials. There are several indicators in the present desert environments of higher levels of precipitation in the past.
+
+These include:
+
+·         high lake levels marked by ancient shorelines around now dry and salty closed basins
+
+·         great spreads of spring-deposited lime called tufa indicating former higher levels of groundwater
+
+·         river systems which are currently inactive and blocked by dune fields
+
+·         animal and plant remains together with evidence of former human habitation in areas now too dry for people to survive.
+
+Some of the pluvial lake basins reached huge dimensions, especially in the south-west USA where faulting had created many closed basins in which lakes could accumulate during periods of greater humidity. Lake Bonneville, near Salt Lake City in Utah, is a classic example of such a residual lake, now covered in flat salt deposits. Similarly, on the margins of the Sahara, Lake Chad has fallen in size considerably. It may have been 120m deeper than now, and it extended for hundreds of kilometres north of its present limits. Although climate change of such a marked degree appears to have taken place in the Pleistocene, it is apparent that appreciable fluctuations in climate may still take place. For example, in the 1930s a period of greatly reduced rainfall and higher than average temperatures in the USA contributed to the extreme wind erosion and dust blowing of the ‘Dust Bowl’ years.
+
+The Omani desert
