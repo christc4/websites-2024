@@ -96,3 +96,5 @@ We do not know if we are on Heaven or Earth
 > _Is it not excessively ridiculous to seek the good opinion of those whom you would never wish to be like?_ &ndash; St. John Chrysostom (Homilies on the Gospel of St. John, Homily III)
 
 > _There is no profit in studying doctrines unless the life of one's soul is acceptable and conforms to God's will. THe cause of all evils is delusion, self-deception and ignorance of God_ &ndash; St. Anthony the Great
+
+> _If you are praised, be silent. If you are scolde, be silent. If you incur losses, be silent. If you receive profit, be silent. If you receive profit, be silent. Do not be afriad that there will no fruit when all dies down. Not everything will die down. energy will appear and what energy_ &ndash; St. Feofil
