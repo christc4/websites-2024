@@ -13,11 +13,11 @@ Ordered by usage
 - *BROWSER*: librewolf, surf, nyxt
     - librewolf, has sane privacy defaults, surf, simply beautiful, nyxt - I need to learn
 - *DOCUMENT VIEWER*: zathura
-- *EDITOR*: acme, vim, ed
-    - If I've ssh'd into a server vim is my go-to, for quick comfy editing its ed, everything else - acme.
+- *EDITOR*: acme, sam, ed
+    - If I'm dealing with multiple files/directories I prefer acme, if it's a reasonable amount sam. If I've ssh'd into a server I'll usually run sam -d or plain old ed or vim.
 - *FILE MANAGER*: lf, clifm
 - *OS*: artix, openbsd
-- *TERMINAL*: st, foot
+- *TERMINAL*: st
 - *TYPESETTING*: groff, postscript, latex
 
 ## Peripherals
@@ -43,7 +43,7 @@ Ordered by usage
 I like standing desks,
 run this command for blue light,
 
-I speak about this in hushed tones, this is my old &apos;gaming&apos; pc (insert soyjack now)
+I speak about this in hushed tones, this is my old &apos;gaming&apos; pc (insert soyjack now). Don't buy a gaming pc. Don't play games that can't run on old computers. Don't game in general. Massive time vampire.
 
 ![image](.pix/gaming_pc.webp)
 ![image](.pix/gaming_pc2.webp)
