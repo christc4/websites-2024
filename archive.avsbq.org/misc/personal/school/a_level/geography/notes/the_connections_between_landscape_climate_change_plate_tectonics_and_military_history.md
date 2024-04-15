@@ -9,3 +9,11 @@ Although WW1 ended more than a hundred years ago, the landscape still records, a
 Figure 1. Lochnagar Crater
 
 ![image](.pix/lochnagar_crater.webp)
+
+Along the shores of the English Channel, in Fratce and England, sea currents and associated shifting sands have revealed sunken WW1 U-boats and airplanes. An example of the former is the UC61 German submarine recently exposed at low tide at Wissant, near Calais.
+
+Furthermore, it is the case that both climate change and cetconic ativity are revealing more evidence of past conflict.
+
+*Climate change*
+
+High in the Alps between Italy and Switzerland, on the slopes of M
