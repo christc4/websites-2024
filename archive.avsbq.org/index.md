@@ -6,4 +6,4 @@
 
 There's a lot of deadlinks out there, you'll have to hire a resurrector or commence a seance with the wayback machine to access those pages&hellip; I've cached a few gems here, providing the original link whenever I can.
 
-Some pages here are refugees from other sites.
+Some pages here are refugees from other sites. While a lot are pages written by myself, such as personal files that may be of use to other people.
