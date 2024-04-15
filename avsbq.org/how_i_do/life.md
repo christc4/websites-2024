@@ -1,6 +1,8 @@
 # How I do &apos;&ldquo;life&rdquo;&apos;
 
-If you know who Varg Vikernes, Luke Smith or Acorn Land labs is you'll understand this more.
+If you know who Varg Vikernes, Luke Smith you'll understand the philosophy behind this.
+
+If you know Acorn Land labs you'll how easy it is to implement all this.
 
 A detailed rationale will not be provided here, so there is an excercise for you the reader.
 
