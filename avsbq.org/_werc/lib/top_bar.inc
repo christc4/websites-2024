@@ -1,17 +1,16 @@
     <div>
-      <a href="https://avsbq.org">avsbq.org</a> -
-      <a href="https://archive.avsbq.org">archive</a> -
-      <a href="https://mal.avsbq.org">mal</a> -
-      <a href="https://language.avsbq.org">languages</a> -
-      <a href="https://link.avsbq.org">links</a> -
-      <a href="https://iconography.avsbq.org">liturgical arts</a> -
-      <a href="https://project.avsbq.org">projects</a> -
-      <a href="https://tutorial.avsbq.org">tutorials</a> 
+      <a href="https://avsbq.org">avsbq.org</a> &ndash;
+      <a href="https://archive.avsbq.org">archive</a> &ndash;
+      <a href="https://mal.avsbq.org">mal</a> &ndash;
+      <a href="https://language.avsbq.org">languages</a> &ndash;
+      <a href="https://link.avsbq.org">links</a> &ndash;
+      <a href="https://iconography.avsbq.org">liturgical arts</a> &ndash;
+      <a href="https://project.avsbq.org">projects</a> &ndash;
+      <a href="https://tutorial.avsbq.org">tutorials</a> &ndash;
+      <a href="https://video.avsbq.org">videos</a> 
     </div>
 
     <div>
-      <a href="https://profile.avsbq.org/"><i>profile</i></a> ~
-      <a href="https://avsbq.org/.videos">vids</a> ~
-      <a href="https://avsbq.org/.webring">webring</a>
+      <a href="https://profile.avsbq.org/"><i>profile</i></a> &ndash;
     </div>
 
