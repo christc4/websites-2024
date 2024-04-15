@@ -1,3 +1,3 @@
-Most of this stuff is a direct copy-paste job from David Redfern's substack. With a few tweaks to make sentences more concise.
+# A-Level geography notes
 
-He's a good source.
+Most of this stuff is a direct copy-paste job rom David Redfern's substack. Some pages have a direct source link others do not, just search the page title followed by &apos;David Redfern Substack&apos; and it should  come up.
