@@ -10,6 +10,8 @@ classical foundationalist
 
 - Windswept
 
+- Wayward
+
 - Tad
     - A _tad_ strange
         - Little, 
