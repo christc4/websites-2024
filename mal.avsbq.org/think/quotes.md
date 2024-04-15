@@ -14,7 +14,7 @@
 
 > It costs nothing to be nice, it also costs nothing to be an as$hole
 
-> &ldquo;The Demons! The Demons! They will come from the Twitter Space&rdquo - Unknown Saint
+> > _The Demons! The Demons! They will come from the Twitter Space_ - Unknown Saint
 
 > _He is the only survivor of the Russian sleep experiment_
 
@@ -40,7 +40,7 @@
 
 > _&ldquo;Bunnies have lots of &dollar;&euro;&ast; and we still think they're cute and pure. Let's treat &ast;&ast;&ast; the same way&rdquo; &ndash; Rabbits also malte for life you vapid communal fleshl&ast;g&ast;t_
 
-
+> _If it's yellow let it mellow if it's brown flush it down_
 
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">
 
