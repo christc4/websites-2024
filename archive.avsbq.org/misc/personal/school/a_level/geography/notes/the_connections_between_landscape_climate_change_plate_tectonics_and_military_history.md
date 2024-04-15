@@ -8,3 +8,4 @@ Although WW1 ended more than a hundred years ago, the landscape still records, a
 
 Figure 1. Lochnagar Crater
 
+![image](.pix/lochnagar_crater.webp)
