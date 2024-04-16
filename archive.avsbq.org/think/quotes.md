@@ -42,3 +42,5 @@ Names intentionally redacted
 
     Then they came for me-and there was no one left to speak for me.
 
+> _The higher a person's position in society the more he should help others without ever reminding them of his position_ &ndash; St. Tsar Nicholas II
+
