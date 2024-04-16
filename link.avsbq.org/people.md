@@ -54,6 +54,8 @@
 <br><br>
     - [Personal site](https://vintagebursche.de/?lang=en)
 
+- Trace Velo  
+cycling
 - [Xah Lee]
     
     Ergonomics, Emacs, Programming
