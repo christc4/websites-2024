@@ -4,11 +4,18 @@ theory laden
 instantiate
 classical foundationalist
 
+### A
+
+- Augur
+    - _Augur_ only destruction
 ### B
 
 - Behest
     - At the _behest_ of
 ### D
+
+- Diagrametically
+    - More efficient
 
 - Drum
     - _Drum_ up hype
@@ -24,6 +31,11 @@ classical foundationalist
 - Hitherto
     - _Hitherto_ this year
     - I have only seen a handful of frenchmen _hiterto_
+
+### R
+
+- Rue
+    - _Rue_ the day
 
 ### W
 
