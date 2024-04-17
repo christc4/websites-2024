@@ -23,6 +23,7 @@ cast net cast doubt
 ### D
 
 - Die on hill
+    - Don't _die on this hill_
 
 ### H
 
