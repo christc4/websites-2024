@@ -25,3 +25,6 @@ I haven't freed myself from all these &ndash; yet, when I'm older and wiser, I'l
 Of course, if you're a Christian we have an additional thing.
 
 
+Lao Tzu.  Here is the quote: 《老子》第八○章：「鄰國相望，雞犬之聲相聞，民至老死不相往來。」
+
+
