@@ -11,7 +11,7 @@
       <a href="https://avsbq.org/.webring">webring</a> 
     </div>
 
-    <div
+    <div>
       <a href="https://profile.avsbq.org/">profile</a> 
     </div>
 
