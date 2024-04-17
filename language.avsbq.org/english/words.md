@@ -59,5 +59,11 @@ classical foundationalist
 
 - Incindieary
 
+### W
+
 - Wake
     - In _wake_ of
+
+- Wean
+
+layover, historical layover
