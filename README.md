@@ -1,3 +1,5 @@
-All sites I host.
+# Sites I host and host on behalf of others
 
-Also hosts sites belonging to pariffin, a friend
+### How to print pages?
+
+Everything here is markdown with smatterings of HTML here and there, use a markdown to pdf generator like Pandoc, or if you know a less feature-heavy alternative use that.
