@@ -98,3 +98,6 @@ We do not know if we are on Heaven or Earth
 > _There is no profit in studying doctrines unless the life of one's soul is acceptable and conforms to God's will. THe cause of all evils is delusion, self-deception and ignorance of God_ &ndash; St. Anthony the Great
 
 > _If you are praised, be silent. If you are scolde, be silent. If you incur losses, be silent. If you receive profit, be silent. If you receive profit, be silent. Do not be afriad that there will no fruit when all dies down. Not everything will die down. energy will appear and what energy_ &ndash; St. Feofil
+
+> _Ultimately we must realize that we are not responsible for our own defense. When we refrain from defending ourselves, we are boldly asking God to defend us. It is a place of humility and patience, in which God resides with us. May we, following the example of Christ, be steadfast in our silence and unrelenting in our trust of God_ &ndash; Fr. Matthew Swehla, [The Great Defense](https://stjohngoc.org/the-great-defense/)
+
