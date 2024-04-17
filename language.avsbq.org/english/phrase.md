@@ -57,6 +57,10 @@ cast net cast doubt
 
 Play of on people's good nature
 
+### P
+
+- Pray tell
+
 ### T
 
 - Taint the well

@@ -11,7 +11,7 @@
 <img src="/ico/christ_brought_down.webp" style="max-width: 400px; height: auto;">
 <img src="/ico/child_christ.webp" style="max-width: 200px; height: auto;">
 <img src="/ico/young_christ.webp" style="max-width: 400px; height: auto;">
-
+![image](/ico/glass_stained_christ.webp)
 <!-- TRINITY -->
 
 <img src="/ico/modern_trinity.webp" style="max-width: 300px; height: auto;">
