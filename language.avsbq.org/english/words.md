@@ -12,6 +12,11 @@ classical foundationalist
 
 - Behest
     - At the _behest_ of
+
+### C
+
+- Cagey
+
 ### D
 
 - Diagrametically
