@@ -34,3 +34,13 @@ The dynamic equillibrium, is easily upset by extreme weather events such as stro
 Note: the drainage basin element of the hydrological cycle is the open system where the inputs and outputs can change.
 
 Is the carbon cycle closed?
+
+### Answering a six marker
+
+The graph shows that *overall* Africa is *expected* to see an *increase* in rainfall amount for most months.
+
+This is *evidenced* by months such as, *provide examples*, which also indicates biggest increases around 4mm,
+
+However, *contrary to the pattern*, from *MONTH* to *MONTH* the model suggests that rainfall will be lower than the *DATA* average by as much as *DATA* in *MONTH*.
+
+THIS map gives further information about how changes identified may affect rainfall spatially across africa
