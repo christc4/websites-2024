@@ -17,6 +17,10 @@ classical foundationalist
 - Diagrametically
     - More efficient
 
+- Dole
+    - _Dole_ out
+    - To distribute in small amounts
+
 - Drum
     - _Drum_ up hype
     - Synonym: stir up
