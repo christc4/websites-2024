@@ -58,3 +58,4 @@ Water can transfer CO2 from atmosphere to lithosphere/hydrosphere through precip
 
 Amazon rainforest trees intercept 75% of rainfall, ald send it backto the atmosphere, they also absorb co2 and store it. For decomosiion to ocean, water is needed by the decomposers. decompositin is essential for the transfer of carbon from previously locked iomass,it to the atmosphere, which in turn allows for nutrient cycling e.g. in the amazon which suports growth of new plants, 50% of tree bark is in co2
 
+

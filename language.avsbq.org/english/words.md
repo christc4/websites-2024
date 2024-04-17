@@ -13,6 +13,9 @@ classical foundationalist
 - Behest
     - At the _behest_ of
 
+- Blight
+    - _Blight_ of society
+
 ### C
 
 - Cagey
@@ -43,6 +46,10 @@ classical foundationalist
 - Hitherto
     - _Hitherto_ this year
     - I have only seen a handful of frenchmen _hiterto_
+
+### N
+
+- Nosedive 
 
 ### R
 
