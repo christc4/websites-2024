@@ -19,6 +19,11 @@
 
 
 cast net cast doubt
+
+### H
+
+- Heart of hearts
+
 > Horse in the race
 
 > Cave into your
@@ -61,6 +66,12 @@ Play of on people's good nature
 
 - Pray tell
 
+### S
+
+- Silver lining
+
+- Silver spoon
+
 ### T
 
 - Taint the well
@@ -69,3 +80,5 @@ Play of on people's good nature
 
 - Virtue of
     - By _virtue of_
+
+
