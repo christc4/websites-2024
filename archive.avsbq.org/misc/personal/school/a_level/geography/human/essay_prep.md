@@ -11,3 +11,4 @@ The only landmass considered to be a part of it is antarctica, some  shared but 
 Advancements in technology means resources are in danger of exploitation, take for example the presence of rich oil reserves in anctarctica, as the cost of extraction decreases with new technological extractions with deep oil renreel , the desire and demand for countries to extract oil increases.
 
 The overarching notion of the tragedy of commons means there is no single jurisdiction there is almays potential for exploitaiton, as current resources become edpletede there will be an increasing need for the global commons to meet the needs of teh world population
+As current resources become depleted there will be an increasinf neei yfor the global commons to meet the needs of the present world population

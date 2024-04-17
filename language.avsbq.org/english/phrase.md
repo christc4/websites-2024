@@ -20,6 +20,10 @@
 
 cast net cast doubt
 
+### D
+
+- Die on hill
+
 ### H
 
 - Heart of hearts

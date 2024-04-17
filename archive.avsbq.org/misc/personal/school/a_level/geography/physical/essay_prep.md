@@ -44,3 +44,17 @@ This is *evidenced* by months such as, *provide examples*, which also indicates 
 However, *contrary to the pattern*, from *MONTH* to *MONTH* the model suggests that rainfall will be lower than the *DATA* average by as much as *DATA* in *MONTH*.
 
 THIS map gives further information about how changes identified may affect rainfall spatially across africa
+
+### A six marker,
+
+Prolonged periods of rainfall prior to a strom appear to have contributed to the impact of antecedent rainfall. This antecedent rainfall leads to full storage in ground water and in the soil. Saturated groundwater prior to this event has exacerbated the impact of the storm. this almost certainly speeds up overland flow
+surface runoff during the storm.
+
+Rock type and gradient lead to the hydrograph flashiness.
+
+An increase in atmospheric carbon dioxide can in turn cause higher rates of evapotranspiration.
+Through photosynthesis water influences CO2 absorption through atmospheric store to biosphere.
+Water can transfer CO2 from atmosphere to lithosphere/hydrosphere through precipitation in the form of acid rain, in the oceans this thien becomes carxbonic acid.
+
+Amazon rainforest trees intercept 75% of rainfall, ald send it backto the atmosphere, they also absorb co2 and store it. For decomosiion to ocean, water is needed by the decomposers. decompositin is essential for the transfer of carbon from previously locked iomass,it to the atmosphere, which in turn allows for nutrient cycling e.g. in the amazon which suports growth of new plants, 50% of tree bark is in co2
+
