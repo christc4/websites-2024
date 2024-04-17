@@ -19,3 +19,18 @@ The cryosphere refers to the major storage of water in the form of ice approxima
 Because ice decreases albedo effect and thermal expansion, converse of claical periods, latent heat of freezing , and talk about permathroust. 
 
 Cryospheric change has a regulatory role in sea levels, in a period of cooling (glacias period) the cryosphere can grow in sive, as the water cycle is slowed considerably as the ice restricts the return of water to the sea and ocean, vice versa during periods of warming the cryosphere will add water to the cycle, as the water cycle restarts more of the ice melts and returs water to the sea, this increases the sive of the ocean store causing sea levels to rise throughd increased volumes of wmatetr.
+
+### Explain the concept of dynamic equillibrium in relation to the water cycle
+
+- Dynamic equllibrium, lacj of change in a system, inputs and outputs in xalance, if changes over eehback allows for correlation
+
+
+- Closed system, where no mater leave-\ekits but energy is transyerred\ no water is added to the global budget, closed system of linked processes.
+
+Dynamic equillibrium refers to the tendency towards a natural state of balance within the hydrological cyle, which is closed , no water is added or leazes the global water budget, water is simply recycled around the system.
+
+The dynamic equillibrium, is easily upset by extreme weather events such as stroms or even huban activity e.g modifyinfg the dynamic equillibrium. This in turn causes disruption and inteference to the dynamic equillibrium and is evidenced through flooding, such events and processes cause sudden changes in the state of the system.
+
+Note: the drainage basin element of the hydrological cycle is the open system where the inputs and outputs can change.
+
+Is the carbon cycle closed?
