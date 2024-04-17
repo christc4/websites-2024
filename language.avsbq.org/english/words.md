@@ -24,7 +24,10 @@ classical foundationalist
 ### F
 
 - Fend
-    - _Fend_ for yourselfA
+    - _Fend_ for yourself
+
+- Nestle
+    - _Nestled_ inbetween 
 
 ### H
 
