@@ -34,6 +34,9 @@ cast net cast doubt
 
 - Heart of hearts
 
+- Hold a candle
+    - Well, he still can't _hold a candle_ to me, though
+
 > Horse in the race
 
 > Cave into your

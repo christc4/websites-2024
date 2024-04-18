@@ -104,3 +104,11 @@ We do not know if we are on Heaven or Earth
 > _Live as simply as you can. Do not make your own lives difficult. Too many conveniences turn people into slaves_ &ndash; St. Paisios the Athonite
 
 > _Evil can in no way drive out evil. If anyone does evil to you do good to him, for your good deed will destroy his evil ones_ &ndash; Abba Poemen the Great
+
+> _Let the love of God be the foundation of your relationship, for when His love is present, all other virtues will flourish_ &ndash; St. John of Damascus
+
+> _Blessed are they who have Christ as the axis of their heart and revolve happily around his holy name, unceasingly saying the prayer of the hearth: &apos;Lord Jesus Christ, Son of God, have mercy on me&apos; &ndash; St. Paisios the Athonite
+
+> _After sin comes shame; courage follows repentance. Satan upsets the order; he gives courage to sin and shame to repentance_ &ndash; St. John Chrysostom
+ 
+> _What profit do you gain which can outweigh the loss you bring on your self and your whole household when you stay away from the religious service? Suppose you find a whole treasure-house filled with gold, and this discovery is your reason for staying away. You have lost more than you found, and your loss is as much greater as things of the spirit are  better than the things we see_ &ndash; St. John Chrysostom, _Against the Anomoeans II (p. 281-283)_

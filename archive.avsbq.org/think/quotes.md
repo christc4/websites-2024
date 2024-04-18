@@ -47,3 +47,5 @@ Names intentionally redacted
 > _We cannot deny the fringes of society but we should never place them in the center. Gargoyles belong on the outside of Churches, not at the Altar_
 
 > _Ned said Homer was his true test from God to see if he's worthy to go to heaven_
+
+> _Before you heal someone, ask him if he's willing to give up the things that make him sick_
