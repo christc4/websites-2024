@@ -1,4 +1,6 @@
-# Offloading parenting 
+# Offloading parenting
+
+Last updated, 2024/04/18
 
 ## What is offloading?
 
@@ -6,25 +8,27 @@ Offloading, in the context of parenting, is shulking your fatherly/motherly duti
 
 > _where you move internal operations to a third party_
 
-At its most basic, think of offloading as passing on the parental torch - be it
-basic father/son, mother/daughter interactions, heart-to-heart talks to things like the &apos;birds and the bees&apos;.
+At its core, just imagine offloading as passing on the parental torch to complete strangers.
 
 ## Some scenarios
 
-Let's brainstorm common scenarios, a semi-detailed rationale is provided for most of this, figuring out why this is is left as an excercise for the reader.</p>
+To get your brain thinking and so you can relay and recognise this harmful behaviour in real life, let's brainstorm some scenarios. 
 
 ### Scenario 1
 
-A dad never establishes a fitness regimen with his growing son. His young impressionable son sees all his role-models are in great athletic shape and the most popular students at school are also athletic. Flashforward to the future, they become neraptured by a male influencer peddling self-help stories and their working out originates from their influence.
+A dad never establishes a fitness regimen with his growing son. His young impressionable son sees all his role-models are in great athletic shape and the most popular students at school are also athletic. Flashforward to the future, they become enraptured by a male influencer peddling self-help stories and their working out originates from their influence.
 
-It doesn't matter if you label them a:
+It doesn't matter if you label this wellspring of motivation as a:
+
     - grifter
     - con-artist
-    - snake-oil salesman.
+    - snake-oil salesman
 
-Because of you're standing as a fitness instructor, your points no matter how true they may ring, are null and void in their eyes.
+Because of you're non-existant standing as a person of fitness, your points no matter how true they may ring, are often disregarded as null and void in their eyes.
 
-Acutally, this is a GradeA example of offloading, a lot of parents criminally downlpay fitness, expecting their children to just pick it up. Here's a funny story I overheard
+This is a GradeA example of offloading, parents far and large criminally downplay fitness, expecting &ndash; or simply not caring if their children pick it up.
+
+### Anecdote time
 
 Could their school's fitness ethos rub of on them? Sure.
 
