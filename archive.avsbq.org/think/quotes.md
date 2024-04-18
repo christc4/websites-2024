@@ -44,3 +44,6 @@ Names intentionally redacted
 
 > _The higher a person's position in society the more he should help others without ever reminding them of his position_ &ndash; St. Tsar Nicholas II
 
+> _We cannot deny the fringes of society but we should never place them in the center. Gargoyles belong on the outside of Churches, not at the Altar_
+
+> _Ned said Homer was his true test from God to see if he's worthy to go to heaven_

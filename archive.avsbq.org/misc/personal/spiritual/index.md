@@ -101,3 +101,6 @@ We do not know if we are on Heaven or Earth
 
 > _Ultimately we must realize that we are not responsible for our own defense. When we refrain from defending ourselves, we are boldly asking God to defend us. It is a place of humility and patience, in which God resides with us. May we, following the example of Christ, be steadfast in our silence and unrelenting in our trust of God_ &ndash; Fr. Matthew Swehla, [The Great Defense](https://stjohngoc.org/the-great-defense/)
 
+> _Live as simply as you can. Do not make your own lives difficult. Too many conveniences turn people into slaves_ &ndash; St. Paisios the Athonite
+
+> _Evil can in no way drive out evil. If anyone does evil to you do good to him, for your good deed will destroy his evil ones_ &ndash; Abba Poemen the Great
