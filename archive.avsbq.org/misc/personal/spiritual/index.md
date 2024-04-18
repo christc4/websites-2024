@@ -15,6 +15,10 @@ Josiah Trenham - paraphrased
 
 A young monk complained to his elder superior monk - father, father, i cannot endure the lust anymore. I must sin. The elder said - fine, let us take one coin and go. The two monks went to brothel. The elder monk said, wait here, i shall be first. The elder monk came to prostitute and said, here, take this coin, soon a young man will come after me, do what i tell you and refuse him. The prostitute agreed. When the elder came out of brothel, he told the young monk - now you go. The young monk came before the prostitute, and before anything happened, the prostitute said - wait, there are rules even here. We must both do 50 prostrations, and then we may proceed. Both the young monk and the prostitute started prostrating, when they reached about 20 or 30, the young monk said - I cannot worship before the sin. And the young monk rushed out. The two monks returned to their monastery, and God had removed the lust from the young monk. Do the prostrations before the sin, and the demons shall flee. (Source Unknown)
 
+# Philosophers
+
+&hellip;among the writings ascribed to the seventh-century abbot of Sinai, Anastasios, there is a story which relates that it was the custom of a cerrtain learned Christ to curse Plato daily, until eventually Plato himself appeared to him and said, &ldquo;Man, stop cursing me; for you are merely harming yourself.i I do not deny that I was a sinner, but, when Christ descended into hell, no one believed in Him sooner than I did.&rdquo; &ndash; Andrew Louth, Greek East and Latin West
+
 # The devil as a teacher
 
 St Ambrose of Optina, how did you learn to be such a master of the Jesus prayer, was it the elder before you, st leonid, or was it this elder Hilarion, no it wasn't him either. I had the best teacher in the world, the devil. Because everytime he attacked I prayed more and that's how I learned to pray
