@@ -101,3 +101,4 @@ Play of on people's good nature
 
 
 Nickel and diem you for profit
+Stick to ones guns
