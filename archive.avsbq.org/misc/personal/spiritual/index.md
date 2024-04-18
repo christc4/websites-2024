@@ -1,6 +1,7 @@
 NOTHING HERE IS MY PERSONAL OPINION
 
 ![image](depart_from_me.webp)
+![image](change_my_mind.webp)
 
 # On hating things
 
