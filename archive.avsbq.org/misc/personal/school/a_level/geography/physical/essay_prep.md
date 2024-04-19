@@ -85,3 +85,5 @@ One may challenge the theme of _the interrelatedness of the carbon and water cyc
 Deforestation is the, *definition*. With __ being 55%, expecting to rise by 68% by 2050, this suggests to be an ever increasing issue and will require a range of strategies to combat the issues.
 
 Over 80% of __ come from __ (through combustion of) and has decreased/increased by X% in the last Y years. Suggesting the issue is arising more and more over a temporal scale
+
+In 40 years indicating an exponential change over the temporal scale

@@ -1,1 +1,1 @@
-Ticket out of poverty?
+tIcket out of poverty?
