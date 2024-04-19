@@ -2,6 +2,10 @@
 
 Key concepts + Processes combined with an awareness of scale and temporal change
 
+### Outline the impact of temperature variation on weathering processes in hot deserts
+
+
+
 ### Rainforest
 
 *Spatially*, the Amazon is the largest rainforest *globally*, wherein an area the *size of Wales* is deforested *each year*; being repurposed for anthropogenic activities such as: cattle ranching and logging. A repurcussion of this is the natural water cycle being disturbed. Impermeable surfaces, such as the compression of soils from repeated machinery and livestock, reduce soil porosity, which in turn reduces levels of interception and causes flooding.
