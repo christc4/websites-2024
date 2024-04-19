@@ -70,3 +70,7 @@ font-size: 12px; /* Adjust font size as needed */
 line-height: 30px; /* Center text vertically */
 }
 
+figcaption {
+font-style: italic ;
+}
+
