@@ -66,4 +66,8 @@ One may challenge the theme of _the interrelatedness of the carbon and water cyc
 ### 6 marker guidance
 
 - Patterns
-    - 
+    - Graphs can show rising limbs on specific DATES, with an increase in percentage
+
+- Evidence
+    - Graphs can show a falling limb to where it reaches relative approximately at TIME
+

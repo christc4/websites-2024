@@ -45,3 +45,5 @@
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">
 
 > _The only love Lorne Armstrong has ever known was a composite fo 6 people ultimately trying to get him arrested_
+
+> _The longer I live on this planet, the more I understand why roosters start the day screaming_
