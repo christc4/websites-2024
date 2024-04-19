@@ -87,3 +87,7 @@ Deforestation is the, *definition*. With __ being 55%, expecting to rise by 68% 
 Over 80% of __ come from __ (through combustion of) and has decreased/increased by X% in the last Y years. Suggesting the issue is arising more and more over a temporal scale
 
 In 40 years indicating an exponential change over the temporal scale
+
+### Conclusion example
+
+Overall, the process of XYZ is heavily subjective based on one's X, while Y provides strong benefits to a Q, as it improves a J that was facing. However to a greater extent, it is outweighed by the fact 
