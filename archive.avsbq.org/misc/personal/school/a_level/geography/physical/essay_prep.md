@@ -62,3 +62,8 @@ Amazon rainforest trees intercept 75% of rainfall, ald send it backto the atmosp
 ### Food for thought
 
 One may challenge the theme of _the interrelatedness of the carbon and water cycle_. Elements of the water cycle are not inter-related to the carbon cycle. At its core basic elements involve the transfer of water through the lithosphere, hydro/cryo + atmosphere, this is entirely driven by energy and gravity -> independent of the carbon cycle.
+
+### 6 marker guidance
+
+- Patterns
+    - 
