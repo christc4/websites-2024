@@ -1,3 +1,7 @@
+### Remember
+
+Key concepts + Processes combined with an awareness of scale and temporal change
+
 ### Rainforest
 
 *Spatially*, the Amazon is the largest rainforest *globally*, wherein an area the *size of Wales* is deforested *each year*; being repurposed for anthropogenic activities such as: cattle ranching and logging. A repurcussion of this is the natural water cycle being disturbed. Impermeable surfaces, such as the compression of soils from repeated machinery and livestock, reduce soil porosity, which in turn reduces levels of interception and causes flooding.
@@ -200,3 +204,9 @@ a water surplus can result in wet soils high river levels and additional runoff 
 Predicte impacts of climate change, caused by changes in the cabron budget on this region include the following, firstly an increase in temperature of 2-3c by 2050, which is likely to reuslt in increased rates of evapotranspiratin and a more vigourous hydrological cycle. sea temperatures are exptected to warm too, praticularly in the pacific ocean, this will have a knock on effect o the el nino southern oscialation, which is likely to occur more fruequently
 
 Secondly a decrease in precipiatin durin gthe dry season which can last up to four months of the year is expcected. Reduced rainfall and prolonged drought are features of an el nino year and these could therefore be experienced more frequently, it is also possile that there will be more intense rainfall during the wet season.
+
+### Carbon and water cycle
+
+One can argue, the carbon cycle is entirely dependent upon the water cycle, without the cycling of water throughout the lithosphere, cryosphere and atmosphere, there could be no carbon cycle. 
+
+
