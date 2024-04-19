@@ -91,3 +91,112 @@ In 40 years indicating an exponential change over the temporal scale
 ### Conclusion example
 
 Overall, the process of XYZ is heavily subjective based on one's X, while Y provides strong benefits to a Q, as it improves a J that was facing. However to a greater extent, it is outweighed by the fact 
+
+### Ecological footprint
+
+E.f, is the area of "biologically productive" land/water, needed to "produce resources" that a population consumes and also absorbs waste produced essentially, meaning a pupulations dependency on the biosphere for biologically productive land, countries like the UK have a ef ecological footprint of 5.4 meanwhile the uad has ef of 13.8 global hectares per capita
+https://www.coolgeography.co.uk/advanced/Carbon_Budget.php
+
+Feedback refers to the interconnected flows and transfers in a system. Negative feedback refers to the nullifcation or dampening an acitoin or event may anve on another, give example, it may contribute to a longer growing season for plants therefore leading to more carbon cature through photosnthesis thus nullifying or ndampening the increase in greenhouse gases, , talk about loops
+
+in 6 markers talk about timeframe
+Give the meaning of soil moisture recharge
+
+On analyse questions, mention what will it be like in the future
+
+Overall pattern on the map - use named regions-countreis, north/south/e/we use the scale
+
+regional pattern, which regioins see increses/decrease
+
+anomalous areas - an areas that dont fit with overall pattern
+overall seasons projected changes using the graphs when was the wet season histroicaly by how much will monthly rainfall change across the year which months will see the biggest changes and by how much
+FIres can be essential for nutrient cycling, remove dead grass, prevent trees taking over.
+
+Increasing population in savanna regions can lead to conflicts between the animals and the people living there. Give.. elephant eating crops, trampling bush meat
+
+Nomadic communities are no longer able to move aound as much, dried up water sources infertile land, population growing. This leads to a loss of culture/way of life,
+
+2 problems because of tourism in savannas are disrupted migration pattern, habitat loss, road building affect drainage.
+
+technoloical davantages have enabled more commercial farming to take place in savanna grasslands, human fatigue ield.
+
+irragint dry lands, salts rise, hard rust duicrust, lowers water table, plant root cant reach it,
+
+fragmentation, breaking up hiners migration and predation,
+
+domestic livestock affects wild herbivores, competition for vgation grass and water,
+
+controlled fires are necessary for the susstaianale management of savannas, organic materials build up bigger uncontrollale fires
+
+game reserves do not allow settlement, grazing or farming
+
+serengeti essentials, latitude determines rainfall patterns, impact on great migration, wider ecosystem, impact on traditional nomadic life, role of natural and manmade fires.
+
+
+There may be an essay on demographic dividends, however although there is a storn gsuggestion the number of child dependencies is decreasing, it must also be noted the elderly are also a fiscal drag, as 50-54 year olds are no dependents but contribute ot a
+
+If a proportion of a countries popuation such as over 65s are heavily reliant on working age for essential services this halts economic growth, this is prevalent in japan as 40% of gdp is spent on services for the elderly, moreover this is a challenge as less sectors such ash ealthcare and business are being funded, talk about less money for r&d and industries.
+
+secondly a higher elderly dependenc ratio puts more pressure on young and aging people to provide services for the elderly such as nurses, they have become heavily reliant on filipino nurses
+
+Explain how a high infant mortality rate can be a driver of population growth,
+
+IMR -> families try to compesate by having more children, many srvive niger - 5 chldren per women plus high pop growth
+
+Explain the concept of negative feedback use the water cycline or carbon cycle,
+
+definition of nf +1 for elaboration. 2x1 for example MUST HAVE LOOP i.e. nullification of initall effect must be exemplified, indicative content, directly refer to system sensible examples include carbon - vegetation facts figures named locations
+
+In 6 markers, dominant modern or older, combine both figures and notes, comparaie statements about length of residence, note the gnereal trend e.g. as one size of store increases so does... support with figure evidence, volumetric temporal and spatial comparative scales of different stores. quantitative supporting evidence includes
+
+Soil mositure recharge following a period of utilisation/deficit if precipitatiois greater than pet, the soil water store will strart to fill again as water enters soil pores.
+
+
+deforestation less ineterception soil, less able to store water, agricultural pastoral livestrock ground trampled so less infiltration, arable crops plughing increases inflitration, ditches increase runoff, urbanisation impermeable surface increase runoff,
+
+storm events, seasonal changes, antercedent rainfall -> increased surface rnoff ground is saturated,
+
+soil water is recharged because inputs of precipiation exceeds the output of evaporation, water is utilised in warmer weather. stores are depleting when evapotranspiration exceeds precipitation -> deficit of soil water.
+
+Maximum shortage of water in soil is field capacity
+
+type of soil, permeability of soil + bedrock
+
+water abstraction reduces volume of water in surface store,
+
+flashy: short lag time, steep rising, falling limb, higher floodrisk, higher peak discharge,
+
+subdued, long lag time, gradually rising + falling limb, lower flood risk, low peak discharge,
+
+carbon cycle occurs on local iscale in part or sere lithosphere
+
+drainage basin water balance
+
+this is the balance between inputs and outputs of a drainage basin
+
+water balance is expressed as:
+balance between inputs and outputs of a drainage basin, water balance
+
+p = q + e (+/- change in storage)
+
+where p = precipitation
+q = runoff
+e = evapotranspiration
+
+Rivers will always have a regime they follow, in that some months the discharge of the river will be higher than others. The water balance looks at hov the amount of precipitation compares with the water leaving the system as runoff or as evapotranspiration, the balance will change throughout the year and will be affected by the overall climate of the area near to the river.
+
+For example, under usual conditions the precipitation will be matched by runoff and evapotranspiration giving a 'normal' river level. If evapotranspiration becomes greater for a few months in summer while precipitation and runoff remain the same the river will flow between normal level.
+
+water surplus, there is excess water available within the system, this occurs when precipitation exceeds evapotranspiration and the excess is not being used by plants
+
+deficiency, there is a reduction of water available within the system occurs when ev exceeds precipitation
+
+recharge after a period of deficiency precipitation will occur and replace the lost water in the soil this needs to occur before a period of surplus can reoccur
+
+field capacity the maximum amount of water that soir can hold before it becomes saturated
+
+a water surplus can result in wet soils high river levels and additional runoff whereas a deficit leads to dry soil falling river levels and possibly a drier micro climate.
+
+Predicte impacts of climate change, caused by changes in the cabron budget on this region include the following, firstly an increase in temperature of 2-3c by 2050, which is likely to reuslt in increased rates of evapotranspiratin and a more vigourous hydrological cycle. sea temperatures are exptected to warm too, praticularly in the pacific ocean, this will have a knock on effect o the el nino southern oscialation, which is likely to occur more fruequently
+
+Secondly a decrease in precipiatin durin gthe dry season which can last up to four months of the year is expcected. Reduced rainfall and prolonged drought are features of an el nino year and these could therefore be experienced more frequently, it is also possile that there will be more intense rainfall during the wet season.
