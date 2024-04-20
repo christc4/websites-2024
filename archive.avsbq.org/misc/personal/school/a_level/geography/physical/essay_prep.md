@@ -213,4 +213,66 @@ Secondly a decrease in precipiatin durin gthe dry season which can last up to fo
 
 One can argue, the carbon cycle is entirely dependent upon the water cycle, without the cycling of water throughout the lithosphere, cryosphere and atmosphere, there could be no carbon cycle. 
 
+### Assess the relative importance of the roles of water and wind in shaping desert landscapes
 
+One must demonstrate knowledge of water processes, exogenous, endogenous and ephemeral, the episodic role of water the temporal scale sheet flooding spatial scale channel flash flooding.
+
+Wind: erosion, deflation and abrasion, transportation, suspension, saltation, surface creep and deposition     
+
+Some water landscapes are: wadis, bahadas, pediments, playas and inselbergs
+
+Wind landscapes include: deflation hollows, desert reg pavements, ventifacts, yardangs, zeugens and barcadans seif dunes -> exemplify the role of wind in shaping desert landscapes
+
+
+sources of energy in hot desert environments; solar insolation, winds] runoff, sediment sources, cells and budgets  
+
+these sources may be used to argue in favour of wind or water
+
+geomorphological, weathering, mass movement, erosion, transportation and deposition, make links to the role of water/wind supporting these processes
+
+wind abrasional processes shape and scour the land yardangs and zeugens are likely to appear
+
+for deposition expect sand dune formation
+
+### Desert 6 marker
+
+Examples
+
+Consistent pattern, but average temperatures do appear to ovary more substantuially year son year
+
+both XYZ appear/do not appear to be experiencing a gradual stepped increase in temperature
+
+Peaks and troughs show a mixed picture in terms of...
+
+
+There are no signs of stabilisation with both showing continued variation and a general upwards trajectory in temperature definite evidence of correlation
+
+The presence if water leads to an increase in shrubs and grasses which leads to an increase in surface roughnesss more friction less windspeed less soil erosion which ultimately means less sand particles moving. there can be less watedr lost through windspeed
+
+ultimately with water less and invasion will be happening as a resuslt of the thivker denser vegetation cover.If wind speed is reduced there will be a less movement of sand dunes.
+
+Air humidity concentration has increased due to traspiration which is likely in turn to suport the creation of a microclimate which will further improve agricultural productivity as well as supporting the  newly developed ecosystem som=e may refer to plagioclimate in this regard.
+
+Also can give firewood and wood by productss grass for cattle
+
+Tree leaf foliage covewrage also reduces evaporatiom in shrubs pplants directly under, thereby reducing temperature
+
+### Explain the concept of subclimate in succesion
+
+Sub climax vegetation has not been able to mature to the natural climate vlimax vegetation for the region
+
+This is because of arresting factors. The arresting factors is a local factor which has prevented the natural progression of the vegetation to climax.
+
+There are many types of arresting factors some may argue that human inteference is an arresting factor, the palgioclimax is in effect the sub-climax community.
+
+For example a managed upland moore is prevented from reaching maturity because of the human activity.
+
+### With reference to a tropical rainforest evaluate the role of governance in environmental management
+
+### 9 marker analyse the role of nutrient cycling within a hydrosphere or lithosphere
+
+A ltihsosphere which is a sere originating in a rock, is a plant sucession that begins life on a newly exposed rock surfaced such as one left bare as a result of glacial retreat/tectonic uplift in the formation of a riaased beach or a volcanic explosion, such as the lava fields of eldgja with overtime saw lava solidify and nevome lithospheres 
+
+pioneer species are the first organisms that colonise an area of lithosphere  typicallr are very hardy such as xerophytes
+
+in the case of a lithosphere the pioneer species create their own food
