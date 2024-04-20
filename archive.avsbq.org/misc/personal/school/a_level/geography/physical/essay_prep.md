@@ -275,4 +275,10 @@ A ltihsosphere which is a sere originating in a rock, is a plant sucession that 
 
 pioneer species are the first organisms that colonise an area of lithosphere  typicallr are very hardy such as xerophytes
 
-in the case of a lithosphere the pioneer species create their own food
+in the case of a lithosphere the pioneer species create their own food/water as they ared autotrophic they do not require amnny external nutrition except sunlight
+
+### Episodic role of watedr
+
+The formation of wadis (dry river bed) bahadas (alluvial deposits), playas (dry lake beds), pediments (water eroded plains) inselbergs
+
+The role of water in deserts also extends to a mechanical weathering  process diurnal temperature 
