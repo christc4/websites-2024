@@ -281,4 +281,16 @@ in the case of a lithosphere the pioneer species create their own food/water as 
 
 The formation of wadis (dry river bed) bahadas (alluvial deposits), playas (dry lake beds), pediments (water eroded plains) inselbergs
 
-The role of water in deserts also extends to a mechanical weathering  process diurnal temperature 
+The role of water in deserts also extends to a mechanical weathering  process diurnal temperature diurnal temperature is  more powerful when there is an presence of water that support the presenvce of exfolaiation
+
+The role of water in desert vegetation evaporation outweighs water inputs leading to the formation of salt pans left on the plain
+
+These salt lakes are highly saline with high concentration of soluble sodium salts onlt highly specialised halophyte vegetation ial exist evaporation of water has a direct bearing upon salt pan landscape, the role of water is also undermined historically
+
+### The interrelatedness of carbon and water
+
+However one could argue that there are many interrelateness in things such as photosynthesis 
+
+co2 + water this relies on the presemve for water and carbon dioxide for processes such as atranspiration
+
+Furthermore when considering decomposition one must understand how it is undertaken by detrivores which cannot operate 
