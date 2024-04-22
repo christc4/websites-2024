@@ -77,6 +77,12 @@ When a deep recossion not only damages actual growth but also potential growth
 - Employed workers have greater bargaining power and can prevent real-wages from falling to their equillibrium level (sticky wages)
 
 
- 
+Hysteresis hypothesis recossions can have permanent negative impacts on the economy/labour markets
+
+ Some GDP is lost output may be unrecoverable and the trend growth rate may be weaker
+
+Hysteresis hypothesis recssions can have permanent negative impacts on the econmy/labour markets
+
+Unemployment: hysteresis doesnt appear to hold when looking at unemhployment dat
 
 
