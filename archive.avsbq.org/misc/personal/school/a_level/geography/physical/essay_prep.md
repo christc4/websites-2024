@@ -4,7 +4,9 @@ Key concepts + Processes combined with an awareness of scale and temporal change
 
 ### Outline the impact of temperature variation on weathering processes in hot deserts
 
+### Sentence examples
 
+This leads to further locally intensified warming, already *subject* to high temperatures and sensitibe to global changes in climate
 
 ### Rainforest
 

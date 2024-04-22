@@ -1,4 +1,7 @@
 insurmontable
+toothless your movement is toothless
+
+
 lauded
 theory laden
 instantiate
@@ -8,6 +11,10 @@ classical foundationalist
 
 - Augur
     - _Augur_ only destruction
+
+- Asunder
+    - The stone itself was split _asunder_ in sympathy with her
+
 ### B
 
 - Behest
