@@ -303,4 +303,20 @@ In summation, deforestation causes the greatest impact on the Amazon rainforest 
 
 ### The carbon budget
 
-The carbon budget, is how much more carbon can be added to the atmosphere, that would hold the global average temperature at 2 degrees, above pre industrial levels amounted to approximately 800 billion tonnes of carbon 
+The carbon budget, is how much more carbon can be added to the atmosphere, that would hold the global average temperature at 2 degrees, above pre industrial levels amounted to approximately 800 billion tonnes of carbon. So far around 570 billion tonnes of extra carbon have been released, with temperatures currently approaching 1.5 celsius above pre industrial levels.
+
+
+Radiative forcing, is the difference of incoming solar radiation, insolation, absorbed by the Earth and the energy radiated back into space.
+
+Carbon dioxide is the single most important anthropogenic greenhouse gas GHG in the atmosphere, contributing sixty-five percent of the radiative forcing
+
+Rising levels of carbon dioxide and other GHGs in post-industrial are fuellinf fears of climate change through climate change through atmospheric warming, atmospheric carbon dioxide approached one hundred fifty percent of the pre-industrial levels in 2021, mainly due to emissions from fossil-fuel combustion and cement production (caused by the production of clinker, the key constituent of cement)
+
+At current rates of emissions, around ten billion tonnes of  carbon a year, there are about 25 years until what remains of the above carbon budget, above 230 billion tonnes, is released and the global average temperatures increases by 2 degrees celsius. To avoid dangerous climate change, substantial and sustained reductions in carbon dioxide emissions are needed.
+
+One way of doing this is to leave most of the remaining fossil-fuel reserves in the ground and generate our energy in sustainable ways. Another is to remove some of the 'extra' carbon from the atmosphere. This could be done by managing forests and other land sinks to increase the amount of carbon they take up. There are also technoloogical solutions known as negative emissions technologies.
+
+One example of this is bioenergy capture and storage (BECCS) if the carbon released by burning fossil fuels is captured before it is released back to the atmosphere, then electricity has been generated without increasing the amount of carbon in the atmosphere, then electricity has been generated without increasing the amount of carbon in the atmosphere or using up any of the carbon budget. However, BECCS is still at an early stage of development. Moreover, the carbon dioxide already in the atmosphere cannot be quickly removed, what ever technologies we deploy.
+
+
+This means a certain amount of global warming is already 'locked in' the future will, inevitably, be hotter for the planet.
