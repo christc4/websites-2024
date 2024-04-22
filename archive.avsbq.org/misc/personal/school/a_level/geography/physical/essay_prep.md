@@ -294,3 +294,11 @@ However one could argue that there are many interrelateness in things such as ph
 co2 + water this relies on the presemve for water and carbon dioxide for processes such as atranspiration
 
 Furthermore when considering decomposition one must understand how it is undertaken by detrivores which cannot operate 
+
+### Deforestation
+
+In summation, deforestation causes the greatest impact on the Amazon rainforest - in the short term, allowing more rainwater to reach the ground, reducing evapotranspiration, whereas a long-term look sees climate change likely to have the ggreatest impact. It is predicted that rainfall amounts will become less in total and more variable. Climate change could in fact result in the decrease of the forest naturally, throuugh a drier climate so the two main causes are INTERRELATED
+
+### The carbon budget
+
+The carbon budget, is how much more carbon can be added to the atmosphere, that would hold the global average temperature at 2 degrees, above pre industrial levels amounted to approximately 800 billion tonnes of carbon 
