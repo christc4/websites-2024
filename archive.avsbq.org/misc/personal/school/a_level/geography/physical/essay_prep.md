@@ -76,19 +76,19 @@ One may challenge the theme of _the interrelatedness of the carbon and water cyc
 ### 6 marker guidance
 
 - Patterns
-    - Graphs can show rising limbs on specific DATES, with an increase in percentage
+- Graphs can show rising limbs on specific DATES, with an increase in percentage
 
 - Evidence
-    - Graphs can show a falling limb to where it reaches relative approximately at TIME
+- Graphs can show a falling limb to where it reaches relative approximately at TIME
 
 - Anomaly
-    - The graph suggests that there to be an inaccuracy between simulated and measured hydrograph, being lower than actual, suggesting limitations of the data model/set.
+- The graph suggests that there to be an inaccuracy between simulated and measured hydrograph, being lower than actual, suggesting limitations of the data model/set.
 
 - Link
-    - The data shows that shortly after a high period of, there is an increasee in as shown by a shorter lag time
+- The data shows that shortly after a high period of, there is an increasee in as shown by a shorter lag time
 
 - Manipulative
-    - Data shown it bo at its highest at approximately (TIME), declining to Xmm by TIME, with the average rainfall being approximately
+- Data shown it bo at its highest at approximately (TIME), declining to Xmm by TIME, with the average rainfall being approximately
 
 ### Sentence examples
 
@@ -295,9 +295,37 @@ However one could argue that there are many interrelateness in things such as ph
 
 co2 + water this relies on the presemve for water and carbon dioxide for processes such as atranspiration
 
-Furthermore when considering decomposition one must understand how it is undertaken by detrivores which cannot operate 
+Furthermore when considering decomposition one must understand how it is undertaken by detrivores which cannot operate without the presence of water
 
-### Deforestation
+Moreover, detrivores themselves respire which is a key carbon process which operates in the presence of water stored in soils and groundwater
+
+In addition, carbon can be dissolved directly into large water bodies and carbon can be dissolved in precipitation when dissolved in water carbon dioxide reacts with water molecules, forming carbonic acid, which contributes to ocean acidity
+
+Periglacial areas (cryosphere)  the process of decomposition are being exacerbated by climate change, the melting ice in the active layeris leadinf to rapid decomposition and a release of co2 and methane
+
+Natual fires is a process releasing carbon dioxide and methane
+
+
+
+Pryscience for example hrw maturation and release of seeds which is triggered in whole or iin part by fire or smoke fgire is a critical ingredient in the renewal of ecosystems or biospheres
+
+one may argue from this that forest fires are not all bad, however of course this depends on the scale intensity and time duration
+
+weatherinf is another process which releases carbon back to the atmosphere lithosphere orand hydroosphe,re requires the presence of water via precipitation or under sea water weathering 
+
+A final sophisticated response is that the carbon cycle is entirely dependent upon the water cycle for its existence, without the cycling of water through the lithosphere, cryosphere and atmosphere , there could be no carbon cycle,
+
+
+### Outline the input of temperature variation in hot deserts
+
+The main inputs in mechanical weathering the very high diurnal temperature variation causes rocks to break up due to the continued expansion/contraction plus or ten percent caused by the regular rhythmic 
+heating and cooling
+
+it is the way high temperatures durind the day and the subsequent very low nightfall temperatures which causes the rock pressure
+
+the very high temperatures also cause evaporaion of soil and ground moisture this contributes to a lack of soil formulation and vegetable growth leaving the area further vulnerable or open to meatherinf process very low temperatures freeze thaw weaathering
+
+## Deforestation
 
 In summation, deforestation causes the greatest impact on the Amazon rainforest - in the short term, allowing more rainwater to reach the ground, reducing evapotranspiration, whereas a long-term look sees climate change likely to have the ggreatest impact. It is predicted that rainfall amounts will become less in total and more variable. Climate change could in fact result in the decrease of the forest naturally, throuugh a drier climate so the two main causes are INTERRELATED
 
@@ -320,3 +348,5 @@ One example of this is bioenergy capture and storage (BECCS) if the carbon relea
 
 
 This means a certain amount of global warming is already 'locked in' the future will, inevitably, be hotter for the planet.
+
+
