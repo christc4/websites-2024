@@ -9,6 +9,7 @@ Ordered by usage
 I use what I guess you'd call a &apos;headless&apos; laptop,
 
 > Although, I think the term &apos;headless&apos; actually refers to laptop's still in their chassis with keyboard, just without the display.
+> Now that word reminds me of beheading insert cutesy gif
 
 It's the motherboard of a corebooted Lenovo ThinkPad x230. I used it for years as it was originally intended as - a laptop - but decided that laptops breed laziness and are generally harmful, you can see my reasoning [here](). I also did this for performance reasons.
 
