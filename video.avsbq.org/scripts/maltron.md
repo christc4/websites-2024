@@ -17,3 +17,5 @@ Let's talk about these spaceship lights,
 If I could add anything to thhis keyboard it would be probably be a thinkpad style trackpoint preferably around the thumb clunter .
 
 oh and flips this around its made in england, and thats one of the major reasons i bought this - 
+
+TALK ABOUT THOE THUMB CLUSTRE MORE
