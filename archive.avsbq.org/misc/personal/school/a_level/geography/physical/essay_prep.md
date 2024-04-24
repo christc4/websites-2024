@@ -349,4 +349,131 @@ One example of this is bioenergy capture and storage (BECCS) if the carbon relea
 
 This means a certain amount of global warming is already 'locked in' the future will, inevitably, be hotter for the planet.
 
+### Hydrographs
 
+A storm hydrograph is a graph which shows theh response oof a river after a particular rainfall event
+
+River discharge is the volume of water passing through a given point in a given point (cross sectional areas x velocity) cumecs
+
+Labels include: discharge (Q) cumecs, time, peak discharge, peak rainfall, laag time, flashy, attentuated, rainfall event, rising limb, falling (descending+ limb, baseflow, bankfull discharge, flood
+
+Basin size, is a permanent control on the storm hydrograph. Rivers with small basins are likely to have a flashier response to a rainfall event than rivers with a large basin whereas the hydrograaph for a large basin will be attentuated. This is because mater has less distance to travel to get to the gauging station in a small basin whereas in a large basin water may have to travel hundreds of miles before reaching the main channel.
+
+Basin shape, rounder basins tributaries are the same distance, less distance to travel however this is reversed in elongated basins
+
+Weather, antecedent rainfall, 
+
+Land usage, urban areas encourage water transfer, more impermeable tarmac increase surface runoff
+
+Management, dams may hold back and store water, afforestation
+
+Rock type, permeability how easily will  water flow through, porosity how many pore spaces. Porous rocks, e.g chalk hold water and slow... granite is more flashy, if soil is attenuated
+
+Soil type, saturated soils result in rapid runoff,
+
+Vegetation type, Decidious trees have few leaves so less 
+
+Drainage density, o lew drainage density leads to slower transfer
+
+ANtecedent soil moisture conditions, if soil das reached its field capacity runoff will be greater
+
+Aspect, 
+
+
+### Salt marshes
+
+We don't know for certain why many areas of marsh vegetation suffer periodic die-back.
+
+#### The formation of salt marshes
+
+Salt marshes, occupy a mid level between the mudflats that edge the permanently submerged marine zone and the terrestrial (land based) haabitats that lie above the high water mark. Like sand dunes they result from the interaction of geoomorphological and ecological processes. The key to their formation is a low energy tidal environment, that is one where the sea's erosional ability is limited. This allows plant colinsation and sediment accumulation. THe plant community  then undergoes a series of changes known as succession. These combine to create a feature thaht can eventually emerge above sea level and become permanent.
+
+#### Factors affecting salt marsh development
+
+Salt marsh, 
+
+- Weather, stoorms can erode the marsh
+- River regime, changes in currents and volumes can affect erosion
+- Sediment supply, supply changes can enhance or diminish the available stilt
+- Human action, commercial industrial and recreational activity can damage marsh
+- Sea level, rises can upset equilibrium and destroy the marshes
+- Climate, affects species types, growth rates and sea levels
+- Wave type, changes in direction, nature and size can affect marsh stability
+- Tidal regime, changes in tidal currents can increase erosion and alter species
+
+During their lifetime, salt marshes have to adapt to changes in these factors, they try to maintain a balance between them, so they are said to be in a state of dynamic equillibrium.
+
+The initial low energy environment can result from many causes. The most common causes are:
+- the protection from the open sea provided in the inner reaches of estuaries and rias
+- the protection offered by spits, bars or other coastal landforms
+
+
+The latter is common. Indeed the formation of spits and salt marshes is often linked, as can be seen in places such as Hurst Castle Spit in the Western Solent. Once a low energy environment is established a number of processes take place to form a halosere or saltmarsh succession. 
+
+A succession is a vegetation sequence developed over time.
+
+######## The formation of a saltmarsh succession
+
+- As the tidal currents are slowed they begin to deposit material. This is fine grained at first. It may be encouraged by the growth off eelgrass in submerged areas.
+
+- Eel grass helps slow the currents further
+
+- Gradually uneven mud flats develop that are exposed at low tide
+
+- These mud flats can then become colonised by pioneer plant species
+
+- These plants are tolerant of salt and the periodic soaking of the sea caused by low tides. They are known as halophytes, they include species such as glasswort and sea blite. They are small and are annuals, new ones developing from seed each year.
+
+- They gradually develop close vegetation over the mud. This allows colonisation by further types of plants such as sea aster marsh grass and sea lavender. These form a dense mat of vegetation up to fifteen centimetres high.
+
+This vegetation creates friction to slow the tidal currents even further,  which causes more sediment to be deposited. 
+
+- Additionally, the vegetation itself traps particles. These accumulate eventually on the mud
+
+	 The plants also produce leaves and stalks that die and help build the sediment level, This vegetation  waste or detritus can be up to 15 tonnes of dry matter per year
+
+- These processes combine to increase the level ofthe mud flats by between one mm and thirty mm per year. They also provide a food supply for other species, such as small invertebrates to exploit.
+
+
+As the mud levels rise, complex creek ssystems evolve that channel the flowing and ebbing tides. Thes become deeper as the land rises.
+
+Eventually, the land rises above sea level as new species such as rushes and reeds become established . These species are perennials as are the trees s uch as alder and ash that appear.
+
+By this time the salt marsh succession is completee This halosphere or succession also shows species zonation. Zonation can be defined as distinct spatial distribution. By this stage the upper levels of marsh are rarelly covered by the sea. Only hiigh spring tieds and storms allow them to become inundated.
+
+Students frequently confuse zonation with succession in both salt marshes and sand dunes.
+
+Salt marshes thus become attractive to farming and are often reclaimed. Many of the marshes around southern and eastern  England have been reclaimed and are being defended by sea walls. Today they are relict feawtures and are no longer beinf actively formed. Traditionally, they have been used for cattle oro sheep to graze but some have been draivned and "uimproved" and support arable crops.
+
+Because of rising sea levels, some reclaimed  salt marshes are under theat and as the land is comparitively low value they have now been declared as areas for managed natural retreat. These coastal management strategies wil allow the marine erosion to breach sea defences to recreate the salt marshes as actinf as a natural buffer against future erosion.
+
+ALthough the succession described has taken pylace over hundreds of years in the nineteenth century a new element appeared particularly in southern England. Cordgrass or spartina maritttime existed in england prior to eighteen hundred but increasing trade led to the accidental importation of similar species from abroade These interbred with the native forms to create a new variety called spartina anglica. This is an astonishing plant, perfectly adapted to survive in thte hostile conditions of tidal environments. It has
+- glands to secrete salt and minimise dehydration
+- deeply recessed pores to reduce water loss
+- two root systews - a fine mat of surface roots to bind the mud and long, thick and deep roots with airways that can secure it in up to two metres of sloppy mud
+
+It thus a remarkable ability to thrive  on mudflats. It grows so quickly that it can trap ut to four thoussand tonnes of silt/hectare/year. Not surprisingly a ready export market has been found for it. It has been used for reclamation purposes as a catalyst in countries as far apart as China and France.
+
+Since the nineteen fifties spartina has been in decline possibly due to soil pollition. Salt marshes shave high levels og primarry productivity 
+
+threats to the salt marshes indusstrial polliton, euthrophciation, dredging remove sediment that maap allow scour and erosion grazing 
+
+
+### Feedback
+
+Where the effects of an action are nullified by subsequent knock-on effects, such as an increase in the level of co2 concentration in the atmosphere may result in increased plant/fauna growth and therefore an increased uptake of carbon dioxide for photosynthesis decreasinf co2 in the atmosphere
+
+#### Cascading systems
+
+Made up of a chain of open systems where the output of one system forms the input to another
+
+
+#### Water balance
+
+The water balance is the difference between the inputs precipitation and outputs channel runoff discharge plus evapotranspiration
+
+#### The drainage basin system
+
+Learn the following terms before your exam,
+
+Throughflow, evaporation, infiltration, overland flow, interception, groundwater, soil moisture storage, groundwater flow, channel catch, transpiration , channel storage, surface storage, stemflow
