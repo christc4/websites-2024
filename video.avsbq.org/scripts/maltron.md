@@ -19,3 +19,5 @@ If I could add anything to thhis keyboard it would be probably be a thinkpad sty
 oh and flips this around its made in england, and thats one of the major reasons i bought this - 
 
 TALK ABOUT THOE THUMB CLUSTRE MORE
+Also I really really want to rest my elbow on this but IM worried iin the long run itll dawmage or put too much stress on its structural integrity
+,
