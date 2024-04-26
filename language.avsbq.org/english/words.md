@@ -53,6 +53,9 @@ classical foundationalist
 - Fend
     - _Fend_ for yourself
 
+- Fronting
+	- It's a cult _fronting_ as a lifestyle
+
 - Nestle
     - _Nestled_ inbetween 
 
