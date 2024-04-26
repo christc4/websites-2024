@@ -14,6 +14,7 @@ The following are good places to learn more about free software
 
 
 <img src=".pix/gnu_tux.webp" style="width: 200px; height: auto;">
+<img src=".pix/gnulag.webp" style="width: 200px; height: auto;">
 
 - [Free Software Foundation](https://www.fsf.org/)
 - [Richard Stallman](https://stallman.org/)
