@@ -1,4 +1,12 @@
-# General advice
+# Why I do websites
+
+Nuggets of wisdom, point of reference,
+
+
+# Recent revelation
+
+
+### General advice
 
 - Don't use LinkedIn
 - Don't use Medium
