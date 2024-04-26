@@ -1,3 +1,8 @@
+# Words
+
+## Philosophy
+
+I like multipurpose words, for example the animal Lion, Lionise; Lionel, the particular word for wood, lumber be lumbered wiith something
 insurmontable
 This dovetails this hasa been taxing on us all 
 toothless your movement is toothless
@@ -71,7 +76,13 @@ classical foundationalist
 - Shouldered
 	- She _shouldered_ a tragic past
 
+- Springboard
 
+
+### T
+
+- Taxing
+	- It's quite _taxing_ have to type all these words
 ### W
 
 - Windswept
