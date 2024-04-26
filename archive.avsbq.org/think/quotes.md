@@ -49,3 +49,5 @@ Names intentionally redacted
 > _Ned said Homer was his true test from God to see if he's worthy to go to heaven_
 
 > _Before you heal someone, ask him if he's willing to give up the things that make him sick_
+
+> _One person&apos;s hate speech is another person&apos;s love speech_
