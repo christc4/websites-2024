@@ -13,4 +13,3 @@ Attended a lesson by Joseph
 <img src=".pix/2023-12-05-02.webp" style="height: 100px; width: auto;">
 
 
-<!--#include file="/foot" -->
