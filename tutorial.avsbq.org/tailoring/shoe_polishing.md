@@ -1,5 +1,9 @@
 # How to polish shoes
 
+<img src=".pix/shoe1.webp" style="max-width: 390px; height: auto;">
+
+Excuse trousers, first day of Year 12
+
 ### Important
 
 I get it, no one likes a life story before a tutorial, skip this you may.

@@ -3,6 +3,7 @@
 ## Philosophy
 
 I like multipurpose words, for example the animal Lion, Lionise; Lionel, the particular word for wood, lumber be lumbered wiith something
+if words are derived from nouns, they should be commonly known not niche terms like spur
 insurmontable
 This dovetails this hasa been taxing on us all 
 toothless your movement is toothless
@@ -29,6 +30,8 @@ classical foundationalist
 - Blight
     - _Blight_ of society
 
+- Brunt
+	- At the _brunt_ of
 ### C
 
 - Cagey
@@ -80,6 +83,10 @@ classical foundationalist
 	- She _shouldered_ a tragic past
 
 - Springboard
+
+- Spur
+	- Spur innovation
+	- Not intuitive, spur is a term for horseriding equipment, not widely known
 
 
 ### T
