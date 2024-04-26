@@ -1,7 +1,13 @@
 # Why I do websites
 
+Last update: 26
+
+Imagine you have an interest which you can speak glowingly about, maybe you have a bunch of ideas, nuggets of wisdom floating around in your head, do your memories not deteriorate, what if you lose interest in said topic
 Nuggets of wisdom, point of reference,
 
+# What if no-one visits avsbq.org?
+
+I'm not expecting many visitors, I made this site for my future children, this will be their first and maybe last website they are allowed to visit, until they are old enough, see my reasoning [here]()
 
 # Recent revelation
 
