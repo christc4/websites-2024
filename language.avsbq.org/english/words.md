@@ -28,6 +28,8 @@ classical foundationalist
 
 - Cagey
 
+- Cave
+	- _Cave_ into desires
 ### D
 
 - Diagrametically
@@ -63,6 +65,12 @@ classical foundationalist
 
 - Rue
     - _Rue_ the day
+
+### S
+
+- Shouldered
+	- She _shouldered_ a tragic past
+
 
 ### W
 
