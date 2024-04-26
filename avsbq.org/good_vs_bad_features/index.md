@@ -1,8 +1,10 @@
 # Good vs Bad Features
 
-I want programs, and I guess you could extapolate this to things not software, that do very little. I don't want features that are baked in the code and can't be used with other programs.
+## Context
 
-I have some examples everyone should be familiar with.
+In computing there's something called the &apos;[unix philosophy](https://archive.avsbq.org/compturer_science/practices/unix_philosophy)&apos;. To cut it short, programs should do *one* thing and do it *well*. Instead of a mega-monolith swiss army knife program, there are many little programs working together.
+
+This notion, applies mainly to software and I haven't really thought about how I can extrapolate said philosophy to more tangible things. Although in theory, the software examples I provide should have equivalents in the real world.
 
 # Tabs
 
