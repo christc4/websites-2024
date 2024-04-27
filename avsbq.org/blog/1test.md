@@ -1,5 +1,4 @@
 
-
 While I disagree with Nicholas J. Fuentes on many facets of life and Varg Vikernes on many many more, there seems be some corollary between them that makes a lot of sense.
 
 Before, you may have heard the phrase "Deny existance expect resistance" 
@@ -11,3 +10,5 @@ Vargs response to the often-heard, immigrants are having too many children and u
 Nicks response to the gay marriage question, "You don' attack gay marriage you push straight marriage"
 
 Remember the fringes gargoyles squote
+
+As Luke Smith, once said, in your heart of hearts you already know what's right,
