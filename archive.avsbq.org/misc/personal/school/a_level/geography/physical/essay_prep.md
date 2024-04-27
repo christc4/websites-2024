@@ -476,4 +476,6 @@ The water balance is the difference between the inputs precipitation and outputs
 
 Learn the following terms before your exam,
 
-Throughflow, evaporation, infiltration, overland flow, interception, groundwater, soil moisture storage, groundwater flow, channel catch, transpiration , channel storage, surface storage, stemflow
+Throughflow, evaporation, infiltration, overland flow, interception, groundwater, soil moisture storage, groundwater flow, channel catch, transpiration , channel storage, surface storage, stemflowO
+
+Salinisation decreases yield
