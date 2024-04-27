@@ -12,7 +12,16 @@ While serving in a youth cadet force, Ihad the shiniest shoes in the platoon, no
 
 There are a lot of opinions on shoe polishing, hundreds out there, but I am old- 19, and do not care for them.
 
+do not polish where creases are
+
+good polish lasts years! however, hydration, 
+
+why i dont like polish shoes, if you are boarding a train, incase you drop your shoes 
 # Equipment
+
+I dont like patent leather, looks cheap and tacky
+
+Shined shoes are indeed beautiful but are they worth the headache you decide?
 
 *Polish*: 
 - Cheap shoes, Kiwi

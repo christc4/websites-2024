@@ -2,6 +2,8 @@
 
 ### Don't forget to wipe your feet
 
+Search bar coming soon
+
 ⠺⠑ ⠁⠗⠑ ⠎⠕ ⠋⠁⠗ ⠁⠝⠙ ⠋⠑⠺
 
  <img src=".pix/train.webp" style="width: 500px; height: 300px;">
