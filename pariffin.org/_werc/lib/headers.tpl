@@ -5,8 +5,6 @@
     <title>%($pageTitle%)</title>
 
     <link rel="stylesheet" href="/pub/style/style.css" type="text/css" media="screen, handheld" title="default">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="stylesheet" href="https://pariffin.org/_werc/style.css" type="text/css" media="screen" title="default">'
 
     <meta charset="UTF-8">
 % # Legacy charset declaration for backards compatibility with non-html5 browsers.
@@ -25,4 +23,3 @@
 
 </head>
 <body>
-
