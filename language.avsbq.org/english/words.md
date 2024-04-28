@@ -59,6 +59,9 @@ classical foundationalist
 - Fend
     - _Fend_ for yourself
 
+- Footing
+	- We got of on the wrong _footing_
+
 - Fronting
 	- It's a cult _fronting_ as a lifestyle
 
