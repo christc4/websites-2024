@@ -497,6 +497,19 @@ The water balance is the difference between the inputs precipitation and outputs
 
 #### The drainage basin system
 
+The balance of water ini the drainage basin can be seen in its water budget, the water budget is calculated through the formula 
+P = R + ET + ΔS
+
+P - prrecipitation
+e - evapotranspiration
+delta - change in storage in soil or bedrock
+
+The interaction between run-off, evapotranspiration and storage is in constant changthroughout the years and  depends on both the characteristics  of the pphysical ennvvironnment and climate
+
+During the  drryy seasoon there is a soil moisture deficit caused by evapotranspiiration exceeding precipitation
+
+/drainage
+
 Learn the following terms before your exam,
 
 Throughflow, evaporation, infiltration, overland flow, interception, groundwater, soil moisture storage, groundwater flow, channel catch, transpiration , channel storage, surface storage, stemflowO
@@ -519,4 +532,7 @@ Biological water will constitute  the water stored in all the biomass storage of
 
 condensation is the direct cause of all forms of precipitation
 
-If air temperature is reduced to dew point warm moist air passes over cold  surfaces volume of air increases but there is no addition of heat (
+If air temperature is reduced to dew point warm moist air passes over cold  surfaces volume of air increases but there is no addition of heat (adiabatic cooling) air rises and expands in the lower
+
+Pressure in the upper atmosphere, air is forced to rise over hills (orgraphic rainfall) masses of air of different temperatures and densities meet, (less dense warm air rises over denser cold air) (frontal effect), localized warm surface heat air above, which expands becoming less dense and rises (convectional effect)
+
