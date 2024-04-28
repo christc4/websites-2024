@@ -51,3 +51,5 @@ Names intentionally redacted
 > _Before you heal someone, ask him if he's willing to give up the things that make him sick_
 
 > _One person&apos;s hate speech is another person&apos;s love speech_
+
+> _It takes a village to raise a child_

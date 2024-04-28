@@ -32,6 +32,10 @@ cast net cast doubt
 - Die on hill
     - Don't _die on this hill_
 
+### G
+
+- Gold standard
+
 ### H
 
 - Heart of hearts
@@ -83,6 +87,10 @@ Play of on people's good nature
 ### P
 
 - Pray tell
+
+### R
+
+- Radio silence
 
 ### S
 
