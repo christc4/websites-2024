@@ -1,5 +1,6 @@
 ### Global warming
 
+
 When carbon dioxide releases into the atmosphere from the ocean, it creates what is called a positive atmospheric flux. A negative flux refers to the ocean absorbing carbon dioxide. Think of these fluxes as an inhale and an exhale, where the net effect of these opposing directions determines the overall effect.
 
 Carbon capture is inacessible to LICS, development cannot be decoupled from environmental degredation.
@@ -24,6 +25,11 @@ This leads to further locally intensified warming, already *subject* to high tem
 
 ### Rainforest
 
+Flash flooding removes fertile topsoil
+
+Due to cattle trampling, wind blown seeds find it hard to establish themselves
+
+If there is flooding roots cannoth anchor from soil, to protect it from any ulluvial erosion
 Rain reduces the microbial activity, this is rainsplash impact, rainwater in surface depressions is harmful
 *Spatially*, the Amazon is the largest rainforest *globally*, wherein an area the *size of Wales* is deforested *each year*; being repurposed for anthropogenic activities such as: cattle ranching and logging. A repurcussion of this is the natural water cycle being disturbed. Impermeable surfaces, such as the compression of soils from repeated machinery and livestock, reduce soil porosity, which in turn reduces levels of interception and causes flooding.
 
@@ -499,3 +505,18 @@ Salinisation decreases yield
 
 
 CLORPT, Soil formation is influenced by at least five classic factors that are intertwined in the evolution of a soil. They are: parent material, climate, topography (relief), organisms, and time. When reordered to climate, organisms, relief, parent material, and time, they form the acronym CLORPT.
+
+If water abstraction in ever coming up remember the aral ea in uzbekistan
+
+Soil moisture is that which is held together with  air in unsaturated upper weathered layers on the earth
+
+Soil moisture is a key  variable in controlling the exchange of water and heat energy between land surface and atmosphere
+
+
+### Water balance
+
+Biological water will constitute  the water stored in all the biomass storage of water providinng a rrfsorvvoir of water that helps maintain climatiic environmments if vegetation is lost then climates become desert like, in some cases 95 percent of plant weight   
+
+condensation is the direct cause of all forms of precipitation
+
+If air temperature is reduced to dew point warm moist air passes over cold  surfaces volume of air increases but there is no addition of heat (

@@ -22,7 +22,10 @@ classical foundationalist
 - Asunder
     - The stone itself was split _asunder_ in sympathy with her
 
-### B
+### B <!-- !b -->
+
+- Backlog
+	- Shifting through the _backlog_ is taking its sweet time 
 
 - Behest
     - At the _behest_ of
@@ -72,7 +75,17 @@ classical foundationalist
 
 - Nosedive 
 
+### P <!-- !p -->
+
+- prime
+	- _prime_ your brain
+
+
 ### R
+
+- Rein
+	- Let go of the _reins_ 
+
 
 - Rue
     - _Rue_ the day

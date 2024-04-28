@@ -4,7 +4,7 @@ max-width: 1em;
 vertical-align: middle ;
 }
 
-p {
+p, ul, li {
 font-size: 20px;
 color: #fff;
 }
