@@ -117,3 +117,7 @@ We do not know if we are on Heaven or Earth
 > _After sin comes shame; courage follows repentance. Satan upsets the order; he gives courage to sin and shame to repentance_ &ndash; St. John Chrysostom
  
 > _What profit do you gain which can outweigh the loss you bring on your self and your whole household when you stay away from the religious service? Suppose you find a whole treasure-house filled with gold, and this discovery is your reason for staying away. You have lost more than you found, and your loss is as much greater as things of the spirit are  better than the things we see_ &ndash; St. John Chrysostom, _Against the Anomoeans II (p. 281-283)_
+
+### Uncategorised
+
+Christ is our first love
