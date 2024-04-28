@@ -16,6 +16,8 @@ Stop. Please recommend me a fast and reliable international shipping service fro
 
 2024/04/26, 22:46, for the past few weeks Evris people have been delivering incredibly late hours of the night, completely idiotic . The apartment I am currently in (2024), has a sign that says do not leave items downstair Evri either exclusively hires from the illiterate.
 
+2024/04/27, Evri again chose midnight delivery, the cream on top was how they delivered a parcel belonging to someone from a completely different building to us, this has happened multiple times and usually results in me having to manually trace the rightful parcel owner
+
 Talk about h ow the driveer failed to collecw microwave and when he came to drop of another item, he then finally saw on his phone the pickup scthediel
 
 
