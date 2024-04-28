@@ -28,7 +28,7 @@ Dire Straitss
 cast net cast doubt
 
 ### D
-
+  dire straits
 - Die on hill
     - Don't _die on this hill_
 
@@ -47,7 +47,8 @@ cast net cast doubt
 
 > Sling-shotting past
 
-> Go under the knife
+- Go under the knife
+	- Have surgery
 
 > Scare story
 
@@ -108,3 +109,7 @@ Nickel and diem you for profit
 Stick to ones guns
 
 keep you up to speed
+
+On the money
+
+
