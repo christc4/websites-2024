@@ -33,6 +33,8 @@ classical foundationalist
 - Blight
     - _Blight_ of society
 
+- Blindsided
+
 - Brunt
 	- At the _brunt_ of
 ### C
