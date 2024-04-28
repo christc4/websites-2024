@@ -105,6 +105,8 @@ Play of on people's good nature
 
 ### S
 
+- Second to none
+
 - Silver lining
 
 - Silver spoon
