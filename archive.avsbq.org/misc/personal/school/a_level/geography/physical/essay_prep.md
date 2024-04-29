@@ -506,18 +506,81 @@ delta - change in storage in soil or bedrock
 
 The interaction between run-off, evapotranspiration and storage is in constant changthroughout the years and  depends on both the characteristics  of the pphysical ennvvironnment and climate
 
-During the  drryy seasoon there is a soil moisture deficit caused by evapotranspiiration exceeding precipitation
+During the  dry season there is a soil moisture deficit caused by evapotranspiiration exceeding precipitation, when precipitation exceeds potential evapotranspiration there is soil moisture recharge, which can lead to soil moisture surplus, at this point the field capacity (the maximum amount of maisture that soil can retain) is reached. This will lead to changes in storage and increased throughflow and ground water flow, 
 
-/drainage
 
-Learn the following terms before your exam,
+### River Tweed (The Eddleston Water Project)
+
+Historically, the early nineteenth century saw the river's course extensively altered and long sections were straightened. 
+
+The EMP, carried out the following on 17 seperate farms:
+
+- 66 hectares of riparian woodland created which will help increase rainfall interception, evapotranspiration, soil infiltration and also slow overland flow
+
+- 16,000 metres of fencing and over 70,000 native trees planted
+
+- 1.8km of river re-meandered, this has increased river length, reducing the slope and speed of water flow and provided more space for flood waters, as well as creating new habitats and improving the landscape
+
+- 89 'high flow restrictors' installed that will encourage out of bank flow  and hold back water in the headwaters
+
+- 19 leaky ponds were created, 7000 square metres, these wetland features have a good deal of 'free board' built in so that they will store water during intense rainfall events
+
+Runoff from agriculture is being closely monitoreed, farmers are not permitted to allow fertiliser runoff, salmon fishing contributes 24 million to the local economy, 
+
+
+80% of the catchment is used for agriculture, hill sheep,  cattle
+
+However, soil compaction porosity,
+
+After WW2 forestry comission began planting large scale conifer plantation,
+
+10% of properties at flooding risk, wetlands protected to provide greater storage within DB system, upland trees are planted to increase rates of interception, dredging of larger channels saw the removal of sediment, which in turn increased the channel capacity allowing water to be quickly moved out of the system, Soft engineering in the form of boulders and woody debris left in the upper catchment slow water in upper streams away from human habitation.
+
+Additionally, remeandering of straightened channels, floodbank removal slowed the flow of surface wate by harnessing natural capacity of the landscape to retain water, reducing flood peaks making flood events more manageable
+
+
+Three main causes of rainfall in UK basins are frontal rain (pressure systems) e.g. atlantic depressions, orographic relief, convectional rain e.g. summer thunderstorms
+
+Flow restrictors encourage out-of-bank flow, thus 'slowing the flow' typically of 'engineered log jams' or 'large woody debris', these instream structures are typically formed from locally derived timber and are deployed in a number of different ways, in the eddlseston catchment there are 40 flow restrictors in place.
+
+Remember:
+
+- Vegetation provides interception store (leaves/branches)
+- Water intercepted is evaporated back into the atmosphere
+- Water from leaves to ground falls by throughfall
+- Water from stems/trunks is stemflow
+- Water soaks into soils by infiltration, this movement of water is controlled by gravity, capillary action and soil porosity which is controlled by texture structure and organic content. Coarser soils have larger pores and fissures that allow for larger water flow. Burrowing of worms and insects with the penetration of plant roots can increase soil channels,
+- As soil moistens, clay particles absorb water causing them to expand, reducing the size of soil pores, then raindrop impact breaks large soil clumps into smaller partictles such that said particles begin to clog soil surface pores, reducing movement of water into the soil.
+- If rainfall intensity is greater than infiltration rate, soil reaches infiltration capacity very quickly, meaning the soil is saturated, water will build on surfaces as surface storage, such as puddles, wher surface stores are full then overland flow and sheet flow will begin on slopes. 
+- They will fastly rapidly reach next channels,
+
+- Lateral movement of soil water downslope is called throughflow, more vegetated an areaa is the faster the throughflow is aided by root channels in the soil
+- Percolation, infiltration water moves vertically down soil and unsaturated rock, which is then held as groundwater,
 
 Throughflow, evaporation, infiltration, overland flow, interception, groundwater, soil moisture storage, groundwater flow, channel catch, transpiration , channel storage, surface storage, stemflowO
 
-Salinisation decreases yield
+Initially rivers are fed by throughflow of soil water and groundwater, slow movement means discharges are small
+
+As storm water enters drainage basin, rivers are fed by fast moving water
+
+The more circulare a drainage basin is, the flashier it is, due to it being equidistant
+
+- Steeper sides, influence of gravity is stronger
+- If there is high drainage density, the hydrograph will be flashier
+
+- If there was antecedent rainfall, overland flow increases , the infiltration capacity is reached and lag time is reduced
+
+- If surfaces are baked from dry weather, the impermeableness increases flashiness as...
+
+- Vegetation cover, deforestation reduces interception rates, erodes soil, leads to sedimentation depositon and suspension of channel, reduces bankfall capacity of river, greater chance of flooding
+
+- Ploughing breaks up topsoil
+
+- Before deforestation overland flow is minimal
+
+- Groundwater is stored in aquifers which are layers of permeable rock or soil that can hold water, the water table is the level at which the soil and rocks in an area are saturated with water. When groundwater is abstracted or pumped out of the ground it lowers the water table, this can have several negative effects on the hydrology of the area, one effect from over abstraction is that it can lead to a reduction in the amount of water available for surface water sources such as rivers  and streams. This can make the flow of these waterways more variable, with periodss of low flow during dry s pells and higher flow during wet spells, In turn, this can increase the risk of floodingn during periods of heavy rainfall, as the capacity of the rivers and streams to hold and convey water is reduced.
 
 
-CLORPT, Soil formation is influenced by at least five classic factors that are intertwined in the evolution of a soil. They are: parent material, climate, topography (relief), organisms, and time. When reordered to climate, organisms, relief, parent material, and time, they form the acronym CLORPT.
 
 If water abstraction in ever coming up remember the aral ea in uzbekistan
 
@@ -536,3 +599,5 @@ If air temperature is reduced to dew point warm moist air passes over cold  surf
 
 Pressure in the upper atmosphere, air is forced to rise over hills (orgraphic rainfall) masses of air of different temperatures and densities meet, (less dense warm air rises over denser cold air) (frontal effect), localized warm surface heat air above, which expands becoming less dense and rises (convectional effect)
 
+
+Superimposed on current trend
