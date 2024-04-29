@@ -236,6 +236,42 @@ Secondly a decrease in precipiatin durin gthe dry season which can last up to fo
 
 ### Carbon and water cycle
 
+#### Carbon cycle
+
+Historically, the cambrian period was 500 million years ago and there was 7000ppm, yet this has sunk to 180ppm during  the quaternary glaciation, nowadays 800 GtC 280ppm to 4000ppm as seen by the carbon observatory, before exams look at keeling curve
+
+Carbon dioxide can be removed from atmosphere by dissolving in water forming, humans can anthropogenically do this carbonic acid plus water equals acid rain
+
+Phytoplankton in euphotic zone, convert carbon into organic matter, through photosynthesis, this then releases oxygen as a by-product
+
+It can be argued that plants respiring from an increase in co2, oxygen releases. However it is important to realises  that respiration nullifies this,  plants rely on phosphorus nitrogen and sulphur, an increase in carbon dioxide is meaningless if other sources are exhausted,
+
+##### Vertical deep mixing
+
+Warm water in oceanic surface currents, carries warm tropics water to cold polar regions, water is cooled, making it denser and sinks to the ocean bed, when this returs to the surface is loses carbon dioxide to the atmospheric store, carbon pump takes co2 to the ocean depth
+Co2 is found in soils, atmosphere and oceans, methane is found in sedimentary rocks and permafrost.
+Carbon escapes from mantles at constructive and destructive plate boundaries as well as hot-spot volcanoes, derived from metamorphism of carbonate rocks subducting with ocean crust.
+
+The twilight zone has 37100 gtc
+
+Carbon dioxide naturally returns without humans, tectonic forces continetal margins released also in hot springs
+
+##### In defense of forest fires, 
+
+Old trees will leave healthy ash, this organic soil layer accumalates carbon
+
+##### Global warming
+
+Urban heat island effect, cities are responsible for 47 percent of 
+
+Carbon dioxide is removed into long-term storage by burial of sedimentary rock layers and carbonate rocks.
+
+At the global level, 19 percent of carbon is locked up in plants, directly in the tissues,
+
+The amazon basin is twenty percent of the worlds carbon.
+
+Peat bogs store more than 250 GtC of carbon worldwide.
+
 One can argue, the carbon cycle is entirely dependent upon the water cycle, without the cycling of water throughout the lithosphere, cryosphere and atmosphere, there could be no carbon cycle. 
 
 ### Assess the relative importance of the roles of water and wind in shaping desert landscapes
@@ -579,6 +615,10 @@ The more circulare a drainage basin is, the flashier it is, due to it being equi
 - Before deforestation overland flow is minimal
 
 - Groundwater is stored in aquifers which are layers of permeable rock or soil that can hold water, the water table is the level at which the soil and rocks in an area are saturated with water. When groundwater is abstracted or pumped out of the ground it lowers the water table, this can have several negative effects on the hydrology of the area, one effect from over abstraction is that it can lead to a reduction in the amount of water available for surface water sources such as rivers  and streams. This can make the flow of these waterways more variable, with periodss of low flow during dry s pells and higher flow during wet spells, In turn, this can increase the risk of floodingn during periods of heavy rainfall, as the capacity of the rivers and streams to hold and convey water is reduced.
+
+Another effect of over-abstraction is that it can lead to subsidence or sinking of the ground surface. When water is pumped out of the ground, soils and rock can collapse  in on themselves as they dry out, leading to subsidence. This can create low areas in the landscape, which can be more prone to flooding during periods of heavy rainfall.
+
+Overall, over-abstraction can have a significant impact on the water table, which in turn can increase the risk of flooding in a drainage basin.
 
 
 
