@@ -236,10 +236,19 @@ Secondly a decrease in precipiatin durin gthe dry season which can last up to fo
 
 ### Carbon and water cycle
 
+
+##### A basic carbon cycle explanation
+
+Atmospheric carbon is uptaken through photosynthesis by vegetation, above ground carbon stores include stem, branches and foliage. Some carbon is internally transferred from above-ground to below-ground carbon soils. Fallen leaves and branches add carbon to soils, yet carbon is lost back into the atmosphere through respiration and decomposition of organic matter, such as soil respiration
+
+Below ground carbon consists of roots, litter, some carban is transferred from below ground carbon for example root mortality to the soils, soil carbon, organic, inorganic
+
+
 #### Carbon cycle
 
 Historically, the cambrian period was 500 million years ago and there was 7000ppm, yet this has sunk to 180ppm during  the quaternary glaciation, nowadays 800 GtC 280ppm to 4000ppm as seen by the carbon observatory, before exams look at keeling curve
 
+Water is ablo to dissolve carbon dioxide, there is a negative correlation between the temperature of the water and the amount of carbon dioxide that can be dissolved. This leads to vertical deep mixing, a term used to describe the most important movement of carbon dioxide in oceans, It occurs when warm water in oceanic surface currents is carried from the warm tropics to the cold polar regions. Here the water is cooled, making it dense enough to sink below the surface layer, sometimes all the way to the ocean bed. When cold water returns to the surface and 
 Carbon dioxide can be removed from atmosphere by dissolving in water forming, humans can anthropogenically do this carbonic acid plus water equals acid rain
 
 Phytoplankton in euphotic zone, convert carbon into organic matter, through photosynthesis, this then releases oxygen as a by-product
