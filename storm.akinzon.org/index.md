@@ -1,4 +1,4 @@
-<img src=".pix/vap.jpg" style="width: 180px; height: auto;">
+<img src="https://iconography.avsbq.org/ico/sinai2.webp" style="width: 180px; height: auto;">
 
 - *Living in*: London, United Kingdom
 - *Email*: dawn1000(at)protonmail(dot)com
