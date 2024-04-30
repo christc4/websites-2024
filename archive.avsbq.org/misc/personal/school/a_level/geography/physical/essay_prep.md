@@ -1,8 +1,14 @@
 ### Farming practices
 
-When soil is ploughed, its layers invert, air mixes and microbial activity increases, orga
+When soil is ploughed, its layers invert, air mixes and microbial activity increases, organic matter broken down more rapidly, Largest source of carbon emissions within agriculture is enteric fermentation - rice paddies
+
+Boisenaro encouraged deforestation and logging during is pressidency, 
+
 ### Global warming
 
+Increased carbon dioxide leads to an increase in evaporation, which leads to an increase in water vapour, a greenhouse gas,
+
+Since there is a time lag between carbon dioxide increases and rise in temperatures, difficult to calculate SR vs LR
 
 When carbon dioxide releases into the atmosphere from the ocean, it creates what is called a positive atmospheric flux. A negative flux refers to the ocean absorbing carbon dioxide. Think of these fluxes as an inhale and an exhale, where the net effect of these opposing directions determines the overall effect.
 
@@ -249,8 +255,23 @@ Below ground carbon consists of roots, litter, some carban is transferred from b
 
 #### Carbon cycle
 
+Greenhouse gases absorb infared heat energy, and contribute to radiative forcing, more sunlight is taken in than reflected
+
+
+
 Historically, the cambrian period was 500 million years ago and there was 7000ppm, yet this has sunk to 180ppm during  the quaternary glaciation, nowadays 800 GtC 280ppm to 4000ppm as seen by the carbon observatory, before exams look at keeling curve
 
+##### Carbon sequestration
+
+Geological sequestration, is when carbon is injected in liquid form into stores underground, depleted oil reservoirs, oceans or old coal mines, however this is still at an experimental stage, 
+
+There are difficulties in the sealing of mines. In 
+
+Still very experimental technology, road tankers, ships, all still emit greenhouse gases via road emissions, supercriticial highly pressurised is injected, very dangerous
+
+The benefits are that ocean carbon is 'sunk' within weeks however the circulation system takes thouasands of years for it to return to the atmosphere
+
+Biological/terrestrial sequestration, plants capture carbon from redwood trees, 
 ##### Oceanic carbon pumps
 
 Water is ablo to dissolve carbon dioxide, there is a negative correlation between the temperature of the water and the amount of carbon dioxide that can be dissolved. This leads to vertical deep mixing, a term used to describe the most important movement of carbon dioxide in oceans, It occurs when warm water in oceanic surface currents is carried from the warm tropics to the cold polar regions. Here the water is cooled, making it dense enough to sink below the surface layer, sometimes all the way to the ocean bed. When cold water returns to the surface and warms up again, it loses carbon dioxide to the atmosphere. In this fashion, vertical circulation ensures that carbon dioxide is constantly being exchanged between the ocean and the atmosphere. This vertical circulation also acts as an enormous carbon pump, giving the ocean a lot more carbon than it would have if this surface water was not being constatly replenished.
@@ -659,4 +680,94 @@ Superimposed on current trend
 
 Why does sulphuric acid reflect the sun and cool the earth.
 
-The cement industry produces fifteen percent of global anthropogenic emissions, calcium carbonate is heated producing carbon dioxide
+The cement industry produces fifteen percent of global anthropogenic emissions, calcium carbonate is heated producing carbon dioxide. Cities are responsible for 49 percent of global carbon emissions.
+
+### Ecosystems
+
+Thirty percent of carbon dioxide is carbonic oceanic acid, increasing the oceans acidity, which leads to coral reef loss, as the pH of water decreases its corrosiveness to shells and skeletons also increases
+
+Ocean warming of symbiotic algae, which need coral to grow, leads to bleaching and eventual death of reefs
+
+Arctic sea ice retreated fourty percent, highly reflective ice replaced by more heat absorbent water, when it starts to melt, ocean can absorb more sunlight, rather than reflect, in turn this amplifies warming, and ice melts - less albedo effect
+
+### Hot deserts and landscapes
+
+Inputs, solar energy, precipitation and wind, erosional processes, components are erosional and depositional landforms and landscapes, aeolian/fluvial transport, outputs are sediment removal, clear skies allow energy to radiate back to space
+
+The cycle of desertification
+
+Desertification -> decreased agricultural and livestock yields -> local populations increase livestock numbers and extend and intensify cultivation ->deforestation and overgrazing occur -> soil quality is degraded and reduced vegetation leaves soils exposed to erosion by water and wind
+
+Hot deserts receive less than 250mm per year
+
+The aridity index is the ratio between precipitation and potential evapotranspiration
+
+Deserts climates are characterised by external extremes, temperatures vary wildly annually and diurnally, very low humidity, low cloud levels enable clear skies with high solar insoration, diurnal ranges over thirty degrees
+
+As distannce from the tropics increase, so does annual temperature range due to increased seasonality of the climate
+
+
+Desert margins have variations in temperatures, those on poleward sides of arid areas are significantly colder than those on the equatorial side
+
+Deserts closer to the sea, such as atacama have cooler less extreme temperatures than continevn tal ihteriors - this may be relevant in literally any desert essay
+
+Cloudbursts can deliver total annual rainfall in hours
+
+### Soils
+
+Soils are infertile with thin soil profiles, limited organic material for nutrient build up
+
+thick accumulation of mineral salts, capilliary action, moisture moves upwards when evaporation exceeds precipiitation
+
+Main zonal soil type is aridisols, infertal alkaline
+
+### Vegetation
+
+net primary productivity ranges from 0 to 120, 
+succulent xerophytes have cells in fleshy leaves where they store water
+
+they are adapted, to rapidly absorb water immediately after rainfall since water doesnt penetrate deep into the soil
+
+Tey have shallow extensive wide roots, saguaro roots extend 10m, thick waxy cuticles and closed stomatas, making themm waterproof, spiky leaves to reduce surface area to limit trannspiration
+
+Ephemerals are dormant during dry spells, they have short life cycles, blooming after rainfalls, producing seats
+
+Halophytes saltbush tolerant salinity
+
+#### Causes
+
+Global atmospheric circulation, lattitudes are 20 to 30 degrees north and south of the equator
+
+dominated by high pressure, equator net gain in energy solar insolation, directly overhead with high anngle of incidence
+
+Air heated rises then cools causing vapour to condense, tcloud formation and precipitation
+
+-> rising air replaced by air rusihing in from north and
+south creating low pressure ITCZ. Rising air begins to cool poleward , now at
+20-30 N/S, cool denser air descends, warming and expands, little cloud formation
+->
+- Causes clear skies
+-
+- Continentality 
+
+
+#### Continentality
+
+With a low specific  heat capacity land heats up more quickly and to a higher temperature, but then cools rapidly at niight
+
+Then , inland no  clouds to block insolation - extreme high daytime temperatures but large diurnal range
+
+Coastal areas receive higher amounts of precipitation 
+
+High levels of evaporation - water vapour and latent heat taken into the atmosphere
+
+Water heats up more slowly and to a cooler temperrature than land with its hige specific heat capacity and heat is transferred at death
+
+Less moisture needed for cloud formation, sahara can be over 2000km from nearest sea
+
+Relief
+On the leeward side of mountains, there is a rain shadow effect
+Only the windward side will experience relief rainfall and cloud formation as the moist air is brought inland by prevailing winds. Over the summit air descends sinking air warms leading to less relative humidity and clear skies due to lack of humidity, therefore less precipitation
+
+
+Cold ocean current - wind moving over cold waters  is cooled causing relative humidity to increase 
