@@ -104,4 +104,8 @@ I speak about this in hushed tones, this is my old &apos;gaming&apos; pc (insert
 `gammastep -l 31.4:64.1 -t 5700:3600 -g 0.8 -m randr -v`
 
 
+### Peripherals
 
+I used to be one of the people with 60 percent keyboards, idiocy.
+
+I see your desk as a cockpit, some call it a battlestation.
