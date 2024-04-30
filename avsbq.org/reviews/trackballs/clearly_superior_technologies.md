@@ -37,6 +37,6 @@ Postage: 6
 
 Current verdict: 2024/04/30,
 
-Hard yes. If you have patience keep your eyes peeled for the alternate version as I think the possibilites with the three ports are endless.
+Hard *yes*. If you have patience keep your eyes peeled for the alternate version as I think the possibilites with the three ports are endless. These are no longer being produced by CST.
 
 #### Lineup with other trackballs
