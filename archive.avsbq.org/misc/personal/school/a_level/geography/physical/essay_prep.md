@@ -1,3 +1,6 @@
+### Farming practices
+
+When soil is ploughed, its layers invert, air mixes and microbial activity increases, orga
 ### Global warming
 
 
@@ -248,7 +251,10 @@ Below ground carbon consists of roots, litter, some carban is transferred from b
 
 Historically, the cambrian period was 500 million years ago and there was 7000ppm, yet this has sunk to 180ppm during  the quaternary glaciation, nowadays 800 GtC 280ppm to 4000ppm as seen by the carbon observatory, before exams look at keeling curve
 
-Water is ablo to dissolve carbon dioxide, there is a negative correlation between the temperature of the water and the amount of carbon dioxide that can be dissolved. This leads to vertical deep mixing, a term used to describe the most important movement of carbon dioxide in oceans, It occurs when warm water in oceanic surface currents is carried from the warm tropics to the cold polar regions. Here the water is cooled, making it dense enough to sink below the surface layer, sometimes all the way to the ocean bed. When cold water returns to the surface and 
+##### Oceanic carbon pumps
+
+Water is ablo to dissolve carbon dioxide, there is a negative correlation between the temperature of the water and the amount of carbon dioxide that can be dissolved. This leads to vertical deep mixing, a term used to describe the most important movement of carbon dioxide in oceans, It occurs when warm water in oceanic surface currents is carried from the warm tropics to the cold polar regions. Here the water is cooled, making it dense enough to sink below the surface layer, sometimes all the way to the ocean bed. When cold water returns to the surface and warms up again, it loses carbon dioxide to the atmosphere. In this fashion, vertical circulation ensures that carbon dioxide is constantly being exchanged between the ocean and the atmosphere. This vertical circulation also acts as an enormous carbon pump, giving the ocean a lot more carbon than it would have if this surface water was not being constatly replenished.
+
 Carbon dioxide can be removed from atmosphere by dissolving in water forming, humans can anthropogenically do this carbonic acid plus water equals acid rain
 
 Phytoplankton in euphotic zone, convert carbon into organic matter, through photosynthesis, this then releases oxygen as a by-product
@@ -650,3 +656,7 @@ Pressure in the upper atmosphere, air is forced to rise over hills (orgraphic ra
 
 
 Superimposed on current trend
+
+Why does sulphuric acid reflect the sun and cool the earth.
+
+The cement industry produces fifteen percent of global anthropogenic emissions, calcium carbonate is heated producing carbon dioxide
