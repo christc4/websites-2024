@@ -1,3 +1,5 @@
+I do have some gripes, some are more Linux related and probably wont be applicable to you
+
 I've got a list of talking points, regarding the maltron 2d keyboard. In no particular order but all relating back to whether or not you should buy this keyboard.
 
 Firstly, if you're unwilling to learn a layout alternate to QWERTY, I recommend clickindg off this video. You can get buy with qwerty, most definitely - but I've experienced nothing but discomfort mith qwerty - so much so I involuntarily started typing in dvorak. If you're in the market for maltron, most likely you've got your fair share of experiences with RSI. Historically, maltron was very big on pushing the maltron layout, all their keyboards had physical hardware switches to change layout, Ive never used the maltron layoutt only dvorax. Buy this keyboard and continue to use qwerty, thats a disservice to yourself.
