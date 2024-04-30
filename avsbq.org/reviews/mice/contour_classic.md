@@ -12,7 +12,9 @@ Current price as of 2024/04/19 is &dollar;55.82.
 
 ### Photos
 
-### Should you buy
+#### Should you buy it?
+
+If you find this cheap then this is okay
 
 
 kkkkkkkkkkkkkk
