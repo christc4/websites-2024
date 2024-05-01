@@ -11,3 +11,4 @@
 { *column one* | *column 2* | *column 3* }
 { left  | center |  right }
 {  right | left  |  center  }
+http://repo.cat-v.org/amdtbl/
