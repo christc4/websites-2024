@@ -770,4 +770,37 @@ On the leeward side of mountains, there is a rain shadow effect
 Only the windward side will experience relief rainfall and cloud formation as the moist air is brought inland by prevailing winds. Over the summit air descends sinking air warms leading to less relative humidity and clear skies due to lack of humidity, therefore less precipitation
 
 
-Cold ocean current - wind moving over cold waters  is cooled causing relative humidity to increase 
+Cold ocean current - wind moving over cold waters  is cooled causing relative humidity to increase , moisture is condensed to create fog and mist offshore, land heats up quicker than the sea, lower specific heat capacity, this generates gentle onshore breezes which takes fog and mist inland, yet the intense solar insolation from overhead sun with high angle of incidence burns this away.
+
+The twelve hours of daylight, from the high angle of incidence means that for every given amount of radiation is concentrated, a smaller area of earth than at higher latituhdes, draw this in exams how at ninety degrees the equator is but at ten degrees it is more spead ou
+
+Due to the lack of vegetation in desert floors, exposed ground does have low specific heat capacity
+
+### Wind
+
+Wind is an agent of erosion and transportation, lack of barriers such as vegetation
+
+runoff from spotty rainfall is spatially localised, and temporral rare intense storms however can cause rapid overland flow, runoff, transporting sediment only  to be exacerbated by baked ground and limited vegetation 
+
+### Sediment
+
+Derived  from weathering of underlying parent material or material fluvial in origin, past rivers may bring sediment to deserts. If ephemeral sediment mty be left on river beds episodic rainfall can deposit sediment. Sediment can also be originating from beyond desert marrgins as aeolian loess. ultimately there can be a net sediment loss or gain
+
+##### Weathering
+
+Weathering is the breakdown of material in situ, this produces regolith
+
+##### Mass movement
+
+Movement of material downhill, influenced by gravity/rainfall. Which is dominated by by rock falls and slides, collapses en masse
+
+##### Erosion
+
+Involves the removal of denunded surface material , erosion results in the degredation of surfaces
+
+##### Transportation
+
+Traction, large stones are rolled along the channel bed by movement of water downstream, requires high levels of initial energy and discharge
+
+Saltation, bounced along the channel bed, requires both discharge
+
